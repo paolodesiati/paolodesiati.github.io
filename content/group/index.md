@@ -8,14 +8,11 @@ tags:
 
 ---
 
-**Undergraduate students**
+# Undergraduate students
+- **Riya Kore** HAWC and HAWC-IceCube cosmic-ray anisotropy analysis.
+- **Ferris Wolf** HAWC cosmic-ray analysis.
 
-**Riya Kore** HAWC and HAWC-IceCube cosmic-ray anisotropy analysis.
-
-**Ferris Wolf** HAWC cosmic-ray analysis.
-
-**Graduate student**
-
-**Perri Zilberman** Analysis of cosmic-ray time variations with IceCube.
+# Graduate student
+- **Perri Zilberman** Analysis of cosmic-ray time variations with IceCube.
 
 <!--more-->
