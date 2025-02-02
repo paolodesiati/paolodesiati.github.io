@@ -8,11 +8,22 @@ tags:
 
 ---
 
-# Undergraduate students
+### Undergraduate students
 - **Riya Kore** HAWC and HAWC-IceCube cosmic-ray anisotropy analysis.
 - **Ferris Wolf** HAWC cosmic-ray analysis.
 
-# Graduate student
+### Graduate student
 - **Perri Zilberman** Analysis of cosmic-ray time variations with IceCube.
+
+### Collaborators
+- **Juan Carlos Díaz Vélez** (WIPAC)
+  - Cosmic-Ray science analyses with HAWC and IceCube
+  - Computing and programming support
+  - Student mentoring
+- **Rasha Abbasi** (Loyola University - Chicago)
+  - Cosmic-Ray analysis with IceTop
+- **Frank McNally** (Mercer University)
+  - Cosmic-Ray analysis with IceCube and IceTop
+
 
 <!--more-->
