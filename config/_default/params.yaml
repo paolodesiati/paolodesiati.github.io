@@ -3,12 +3,14 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-font_size: "XS"
-
 # Appearance
 appearance:
   mode: system
   color: emerald
+  theme_day: coffee
+  theme_night: coffee
+  font: minimal
+  font_size: XS
 
 # SEO
 marketing:
