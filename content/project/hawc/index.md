@@ -1,6 +1,8 @@
 ---
 title: HAWC
 date: 2025-02-01
+link:
+  - hawc
 external_link: https://www.hawc-observatory.org
 tags:
   - astrophysics
