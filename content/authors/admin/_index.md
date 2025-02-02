@@ -32,13 +32,13 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:desiati@icecube.wisc.edu'
-    # label: E-mail Me
+    label: E-mail Me
   - icon: brands/linkedin
-    url: [https://www.linkedin.com/](https://www.linkedin.com/in/paolo-desiati-a91a6377/)
+    url: https://www.linkedin.com/in/paolo-desiati-a91a6377/
   - icon: academicons/google-scholar
-    URL: [https://scholar.google.com/](https://scholar.google.com/citations?user=juYcgQkAAAAJ&hl=en/)
+    URL: https://scholar.google.com/citations?user=juYcgQkAAAAJ&hl=en/
   - icon: academicons/orcid
-    URL: [https://orcid.org/](https://orcid.org/0000-0001-9768-1858/)
+    URL: https://orcid.org/0000-0001-9768-1858/
 
 interests:
   - Astrophysics
