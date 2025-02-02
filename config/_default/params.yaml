@@ -3,7 +3,7 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-font_size: "S"
+font_size: "XS"
 
 # Appearance
 appearance:
