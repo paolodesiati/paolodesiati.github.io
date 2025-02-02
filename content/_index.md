@@ -35,30 +35,28 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        I am a research scientist working in cosmic-ray physics for over 20 years. My current activities are:
-
-        **IceCube:** Leading the cosmic-ray analyses in IceCube since 2006. Co-PI of the current IceCube Cosmic Ray
+    **IceCube:** Leading the cosmic-ray analyses in IceCube since 2006. Co-PI of the current IceCube Cosmic Ray
         Analysis sub-award (funded by NSF; UW–Madison PI: Desiati). I lead a working group on cosmic-ray anisotropy
         analyses at UW-Madison in collaboration with Dr. Juan Carlos Díaz Vélez (WIPAC), Prof. Rasha Abbasi (Loyola
         University Chicago), Prof. Frank McNally (Mercer University).
-    
-        **IceCube:** Collaboration with Prof. Julia Becker Tjus (University of Bochum, Germany) and the Bochum group on
+
+    Collaboration with Prof. Julia Becker Tjus (University of Bochum, Germany) and the Bochum group on
         the observation of the cosmic-ray shadow cast by the Moon and the Sun using IceCube data and the numerical
         calculation of cosmic-ray particle trajectories around the Sun at different phases of the solar cycle.
 
-        **HAWC:** Combined analysis of 10 TeV cosmic-ray anisotropy with the HAWC and the IceCube neutrino observatories
+    **HAWC:** Combined analysis of 10 TeV cosmic-ray anisotropy with the HAWC and the IceCube neutrino observatories
         (with Dr. Juan Carlos Díaz Vélez). I am working on an overhaul of cosmic-ray anisotropy analysis in the 1-100
         TeV energy range, using eight years of HAWC data. And on the HAWC/IceCube combined analysis in the 10-100 TeV
         energy range (funded by NSF grant; PI: Desiati). An MoU between IceCube and HAWC was established.
 
-        **SWGO:** Collaboration member of the Southern Wide-field Gamma-ray Observatory (SWGO) and member of the Cosmic
+    **SWGO:** Collaboration member of the Southern Wide-field Gamma-ray Observatory (SWGO) and member of the Cosmic
         Ray task force aimed to establish requirements for high-energy cosmic anisotropy observations.
 
-        **GRAPES-3:** Collaboration with the GRAPES-3 extensive air shower experiment (located in Ooty, India) aimed to
+    **GRAPES-3:** Collaboration with the GRAPES-3 extensive air shower experiment (located in Ooty, India) aimed to
         perform a combined analysis of cosmic-ray anisotropy with IceCube in the energy range of 10-100 TeV. An MoU
         between IceCube and GRAPES-3 was established.
 
-        **Numerical Calculations:** Paolo Desiati and Juan Carlos Díaz Vélez (UW-Madison) collaborate with Prof.
+    **Numerical Calculations:** Paolo Desiati and Juan Carlos Díaz Vélez (UW-Madison) collaborate with Prof.
         Nikolai Pogorelov (Univ. of Alabama - Huntsville), Prof. Zhang Ming (Florida Institute of Technology), and Dr. Vanessa López 
         Barquero (University of Maryland) on the heliosphere’s distortion effects on the arrival direction distribution of TeV cosmic 
         rays and the unfolding of the interstellar diffusion properties.
