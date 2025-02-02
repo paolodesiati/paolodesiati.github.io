@@ -10,7 +10,7 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
- - name: Group
+  - name: Group
     url: group/
     weight: 12
 #  - name: Talks
