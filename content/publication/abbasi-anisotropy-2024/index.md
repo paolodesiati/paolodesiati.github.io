@@ -469,8 +469,8 @@ featured: true
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2412.05046
-- name: URL
-  url: https://arxiv.org/abs/2412.05046
+# - name: URL
+#  url: https://arxiv.org/abs/2412.05046
 # - name: Custom Link
 #  url: http://example.org
 url_pdf: http://arxiv.org/pdf/2412.05046
