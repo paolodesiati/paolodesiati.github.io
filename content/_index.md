@@ -85,16 +85,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: group
-    content:
-      title: Group & Collaborators
-      filters:
-        folders:
-          - group
-    design:
-      view: article-grid
-      columns: 1
   # - block: collection
   #  id: talks
   #  content:
