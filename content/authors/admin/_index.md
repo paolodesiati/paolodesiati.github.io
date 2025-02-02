@@ -24,6 +24,8 @@ role: Research Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - Wisconsin IceCube Particle Astrophysics Center
+    url: https://wipac.wisc.edu/
   - name: University of Wisconsin - Madison
     url: https://wisc.edu/
 
