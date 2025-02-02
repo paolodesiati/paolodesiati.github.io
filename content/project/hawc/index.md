@@ -2,6 +2,8 @@
 title: HAWC
 date: 2025-02-01
 external_link: https://www.hawc-observatory.org
+project:
+- hawc
 tags:
   - astrophysics
   - gamma rays
