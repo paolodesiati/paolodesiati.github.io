@@ -15,7 +15,7 @@ tags:
 ### Graduate student
 - **Perri Zilberman** Analysis of cosmic-ray time variations with IceCube.
 
-### Collaborators
+### IceCube Collaborators
 - **Juan Carlos Díaz Vélez** (WIPAC)
   - Cosmic-Ray science analyses with HAWC and IceCube
   - Computing and programming support
@@ -24,6 +24,10 @@ tags:
   - Cosmic-Ray analysis with IceTop
 - **Frank McNally** (Mercer University)
   - Cosmic-Ray analysis with IceCube and IceTop
+ 
+### External Collaborations
+- **Name**
+  - Task
 
 
 <!--more-->
