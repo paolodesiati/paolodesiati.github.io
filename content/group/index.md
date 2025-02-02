@@ -1,5 +1,5 @@
 ---
-title: Group & Collaborators
+title: Group & Collaborations
 date: 2025-02-02
 cms_exclude: true
 #url: group
