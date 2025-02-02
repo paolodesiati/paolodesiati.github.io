@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:desiati@icecube.wisc.edu'
-    label: E-mail Me
+    # label: E-mail Me
   - icon: brands/linkedin
     url: [https://www.linkedin.com/](https://www.linkedin.com/in/paolo-desiati-a91a6377/)
   - icon: academicons/google-scholar
