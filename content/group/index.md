@@ -1,7 +1,12 @@
 ---
 title: Group & Collaborators
+date: 2025-02-02
 cms_exclude: true
 #url: group
+external_link: ''
+tags:
+
+---
 
 **Undergraduate students**
 
@@ -13,11 +18,4 @@ cms_exclude: true
 
 **Perri Zilberman** Analysis of cosmic-ray time variations with IceCube.
 
-# View
-# view: card
-
-# Optional cover image (relative to `assets/media/` folder).
-image:
-  caption: ''
-  filename: ''
----
+<!--more-->
