@@ -1,5 +1,5 @@
 ---
-title: COSMIC-RAY SMALL-SCALE ANISOTROPIES and LOCAL TURBULENT MAGNETIC FIELDS
+title: Cosmic-Ray Small-Scale Anisotropies and Local Turbulent Magnetic Fields
 authors:
 - V. López-Barquero
 - R. Farber
