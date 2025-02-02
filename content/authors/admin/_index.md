@@ -204,4 +204,4 @@ languages:
 
 ## About Me
 
-Paolo Desiati is a Research Professor at the Wisconsin IceCube Particle Astrophysics Center (WIPAC), a research center of the University of Wisconsin - Madison.
+Paolo Desiati is a research professor at the Wisconsin IceCube Particle Astrophysics Center (WIPAC), a center at the University of Wisconsin-Madison. His research focuses on cosmic ray physics through his work with the IceCube Neutrino Observatory, the High Altitude Water Cherenkov (HAWC) Observatory, and the Southern Wide-field Gamma-ray Observatory (SWGO), performing experimental analyses and simulation studies of cosmic rays. He collaborates with various teams to create multi-experiment combined analyses, aiming to provide comprehensive insights into the complexities of cosmic rays. Additionally, Paolo conducts numerical calculations of particle trajectories using computational astrophysical magnetic field models to develop theoretical frameworks for testing against observational data.
