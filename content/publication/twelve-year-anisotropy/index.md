@@ -3,11 +3,11 @@ title: "Observation of Cosmic-Ray Anisotropy in the Southern Hemisphere with Twe
 Years of Data Collected by the IceCube Neutrino Observatory"
 authors:
 - admin
-date: "2025-01-02T00:00:00Z"
+date: "2025-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-02T00:00:00Z"
+publishDate: "2025-02-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,21 +24,21 @@ abstract: We analyzed the 7.92×1011 cosmic-ray-induced muon events collected by
 summary: 
 
 tags:
-- Large Language Models
+- Cosmic-ray anisotropy
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#  url: http://example.org
 url_pdf: http://arxiv.org/pdf/2412.05046
-url_code: '#'
+# url_code: '#'
 url_dataset: 'https://doi.org/10.7910/DVN/DZI2F5'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
