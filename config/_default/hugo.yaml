@@ -6,7 +6,7 @@
 # Website name
 title: Paolo Desiati
 # Website URL
-baseURL: 'https://www.wisc.edu/directories/person/?q=PAOLO%20DESIATI&email=desiati%40icecube.wisc.edu&savedQuery=Paolo%20Desiati&returnPath=%2Fdirectories%2F/'
+baseURL: 'https://paolodesiati.github.io/'
 
 ############################
 ## LANGUAGE
