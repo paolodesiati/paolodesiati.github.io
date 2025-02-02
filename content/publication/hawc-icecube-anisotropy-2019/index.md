@@ -2,11 +2,11 @@
 title: "All-sky Measurement of the Anisotropy of Cosmic Rays at 10 TeV and Mapping of the Local Interstellar Magnetic Field"
 authors:
 - admin
-date: "2025-02-01T00:00:00Z"
+date: "2019-01-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-01T00:00:00Z"
+publishDate: "2019-01-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
