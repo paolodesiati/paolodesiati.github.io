@@ -1,0 +1,135 @@
+---
+title: Search for neutrino-induced cascades with AMANDA
+authors:
+- M. Ackermann
+- J. Ahrens
+- H. Albrecht
+- X. Bai
+- R. Bay
+- M. Bartelt
+- S.W. Barwick
+- T. Becka
+- K.H. Becker
+- J.K. Becker
+- E. Bernardini
+- D. Bertrand
+- D.J. Boersma
+- S. Böser
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- J. Braun
+- C. Burgess
+- T. Burgess
+- T. Castermans
+- D. Chirkin
+- B. Collin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. de Clercq
+- T. DeYoung
+- P. Desiati
+- P. Ekström
+- T. Feser
+- T.K. Gaisser
+- R. Ganugapati
+- H. Geenen
+- L. Gerhardt
+- A. Goldschmidt
+- A. Groß
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- R. Hardtke
+- T. Harenberg
+- T. Hauschildt
+- K. Helbing
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- J. Hodges
+- D. Hubert
+- B. Hughey
+- P.O. Hulth
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- K.H. Kampert
+- A. Karle
+- J. Kelley
+- M. Kestel
+- L. Köpke
+- M. Kowalski
+- M. Krasberg
+- K. Kuehn
+- H. Leich
+- M. Leuthold
+- I. Liubarsky
+- J. Madsen
+- K. Mandli
+- P. Marciniewski
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- Y. Minaeva
+- P. Miočinović
+- R. Morse
+- K. Münich
+- R. Nahnhauer
+- J.W. Nam
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- H. Ögelman
+- P. Olbrechts
+- C. Pérez de los Heros
+- A.C. Pohl
+- R. Porrata
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- J. Rodríguez Martino
+- H.G. Sander
+- K. Schinarakis
+- S. Schlenstedt
+- T. Schmidt
+- D. Schneider
+- R. Schwarz
+- A. Silvestri
+- M. Solarz
+- G.M. Spiczak
+- C. Spiering
+- M. Stamatikos
+- D. Steele
+- P. Steffen
+- R.G. Stokstad
+- K.H. Sulanke
+- I. Taboada
+- L. Thollander
+- S. Tilav
+- W. Wagner
+- C. Walck
+- M. Walter
+- Y.R. Wang
+- C.H. Wiebusch
+- R. Wischnewski
+- H. Wissing
+- K. Woschnagg
+- G. Yodh
+date: '2004-01-01'
+publishDate: '2025-02-02T00:12:05.429120Z'
+publication_types:
+- article-journal
+publication: '*Astroparticle Physics*'
+doi: 10.1016/j.astropartphys.2004.06.003
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-5444220824&doi=10.1016%2fj.astropartphys.2004.06.003&partnerID=40&md5=531cdb16d1f174e1e8f7b4462d103c33
+---

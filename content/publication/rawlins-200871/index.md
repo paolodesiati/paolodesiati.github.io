@@ -1,0 +1,149 @@
+---
+title: 'IceCube: A multipurpose neutrino telescope'
+authors:
+- Katherine Rawlins
+- A. Achterberg
+- J. Ahrens
+- J.N. Bahcall
+- X. Bai
+- R.C. Bay
+- T. Becka
+- K.-H. Becker
+- J. Bergmans
+- D. Berley
+- E. Bernardini
+- D. Bertrand
+- D.Z. Besson
+- E. Blaufuss
+- D.J. Boersma
+- S. Böser
+- C. Bohm
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- T. Burgess
+- W. Carithers
+- T. Castermans
+- J. Cavin
+- W. Chinowsky
+- D. Chirkin
+- B. Collin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. DeClercq
+- T. Deyoung
+- P. Desiati
+- R. Ehrlich
+- R.W. Ellsworth
+- P.A. Evenson
+- A.R. Fazely
+- T. Feser
+- T.K. Gaisser
+- J. Gallagher
+- R. Ganugapati
+- H. Geenen
+- A. Goldschmidt
+- J.A. Goodman
+- R.M. Gunasingha
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- R. Hardtke
+- T. Hauschildt
+- D. Hays
+- K. Helbing
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- D. Hubert
+- B. Hughey
+- P.O. Hulth
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- G.S. Japaridze
+- A. Jones
+- A. Karle
+- H. Kawai
+- M. Restelo
+- N. Kitamura
+- R. Koch
+- L. Köpke
+- M. Kowalski
+- J.I. Lamoureux
+- N. Langer
+- H. Leich
+- I. Liubarsky
+- J. Madsen
+- K. Mandu
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- P. Mészáros
+- Y. Minaeva
+- R.H. Minor
+- P. Miočinović
+- H. Miyamoto
+- R. Morse
+- R. Nahnhauer
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- H. Ögelman
+- Ph. Olbrechts
+- S. Patton
+- R. Paulos
+- C. Pérez De Los Heros
+- A.C. Pohl
+- J. Pretz
+- P.B. Price
+- G.T. Przybylski
+- S. Razzaque
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- H.-G. Sander
+- K. Schinarakis
+- S. Schlenstedt
+- D. Schneider
+- R. Schwarz
+- D. Seckel
+- A.J. Smith
+- M. Solarz
+- G.M. Spiczak
+- C. Spiering
+- M. Stamaukos
+- T. Stanev
+- D. Steele
+- P. Steffen
+- T. Stezelberger
+- R.G. Stokstad
+- K.-H. Sulanke
+- G.W. Sullivan
+- T.J. Sumner
+- I. Taboada
+- S. Tilav
+- N. Van Eundhoven
+- W. Wagner
+- C. Walck
+- Y.-R. Wang
+- C.H. Wiebusch
+- C. Wiedemann
+- R. Wischnewski
+- H. Wissing
+- K. Woschnagg
+- S. Yoshida
+date: '2008-01-01'
+publishDate: '2025-02-02T00:12:05.022883Z'
+publication_types:
+- article-journal
+publication: '*Journal of the Physical Society of Japan*'
+doi: 10.1143/JPSJS.77SB.71
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-51249098753&doi=10.1143%2fJPSJS.77SB.71&partnerID=40&md5=dcf66c57b08022a7fae38164917940c9
+---

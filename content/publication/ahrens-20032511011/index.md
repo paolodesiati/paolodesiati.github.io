@@ -1,0 +1,127 @@
+---
+title: Limits on diffuse fluxes of high energy extraterrestrial neutrinos with the
+  AMANDA-B10 detector
+authors:
+- J. Ahrens
+- X. Bai
+- S.W. Barwick
+- R.C. Bay
+- T. Becka
+- K.-H. Becker
+- E. Bernardini
+- D. Bertrand
+- A. Biron
+- S. Boeser
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- T. Burgess
+- S. Carius
+- T. Castermans
+- D. Chirkin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. de Clercq
+- T. DeYoung
+- P. Desiati
+- P. Doksus
+- P. Ekström
+- T. Feser
+- T.K. Gaisser
+- R. Ganugapati
+- M. Gaug
+- H. Geenen
+- L. Gerhardt
+- A. Goldschmidt
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- R. Hardtke
+- T. Hauschildt
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- P.O. Hulth
+- B. Hughey
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- A. Karle
+- K. Kuehn
+- J. Kim
+- L. Köpke
+- M. Kowalski
+- J.I. Lamoureux
+- H. Leich
+- M. Leuthold
+- P. Lindahl
+- I. Liubarsky
+- J. Madsen
+- K. Mandli
+- P. Marciniewski
+- H. Matis
+- C.P. McParland
+- T. Messarius
+- T.C. Miller
+- Y. Minaeva
+- P. Miocinović
+- P.C. Mock
+- R. Morse
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- H. Ögelman
+- P. Olbrechts
+- C. Pérez de los Heros
+- A.C. Pohl
+- R. Porrata
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- J. Rodríguez Martino
+- P. Romenesko
+- D. Ross
+- H.-G. Sander
+- S. Schlenstedt
+- K. Schinarakis
+- T. Schmidt
+- D. Schneider
+- R. Schwarz
+- A. Silvestri
+- M. Solarz
+- M. Stamatikos
+- G.M. Spiczak
+- C. Spiering
+- D. Steele
+- P. Steffen
+- R.G. Stokstad
+- K.-H. Sulanke
+- I. Taboada
+- S. Tilav
+- W. Wagner
+- C. Walck
+- Y.-R. Wang
+- C.H. Wiebusch
+- C. Wiedemann
+- R. Wischnewski
+- H. Wissing
+- K. Woschnagg
+- W. Wu
+- G. Yodh
+- S. Young
+date: '2003-01-01'
+publishDate: '2025-02-02T00:12:05.367448Z'
+publication_types:
+- article-journal
+publication: '*Physical Review Letters*'
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-0043269883&partnerID=40&md5=ed9dd2bb34c76f35b8447468d620d2de
+---

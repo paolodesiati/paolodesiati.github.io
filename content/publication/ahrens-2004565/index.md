@@ -1,0 +1,141 @@
+---
+title: Measurement of the cosmic ray composition at the knee with the SPASE-2/AMANDA-B10
+  detectors
+authors:
+- J. Ahrens
+- M. Ackermann
+- E. Andres
+- X. Bai
+- S.W. Barwick
+- R.C. Bay
+- T. Becka
+- K.-H. Becker
+- E. Bernardini
+- D. Bertrand
+- F. Binon
+- A. Biron
+- D.J. Boersma
+- S. Böser
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- T. Burgess
+- S. Carius
+- T. Castermans
+- D. Chirkin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. de Clercq
+- T. DeYoung
+- P. Desiati
+- J.-P. Dewulf
+- E. Dickinson
+- P. Ekström
+- R. Engel
+- P. Evenson
+- T. Feser
+- T.K. Gaisser
+- R. Ganugapati
+- M. Gaug
+- H. Geenen
+- L. Gerhardt
+- A. Goldschmidt
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- R. Hardtke
+- T. Hauschildt
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- J.A. Hinton
+- D. Hubert
+- B. Hughey
+- P.O. Hulth
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- A. Karle
+- J. Kim
+- L. Köpke
+- M. Kowalski
+- K. Kuehn
+- J.I. Lamoureux
+- H. Leich
+- M. Leuthold
+- P. Lindahl
+- I. Liubarsky
+- J. Lloyd-Evans
+- J. Madsen
+- K. Mandli
+- P. Marciniewski
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- T.C. Miller
+- Y. Minaeva
+- P. Miočinović
+- P.C. Mock
+- R. Morse
+- R. Nahnhauer
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- H. Ögelman
+- P. Olbrechts
+- C. Pérez de los Heros
+- A.C. Pohl
+- R. Porrata
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- K. Rochester
+- J. Rodríguez Martino
+- D. Ross
+- H.-G. Sander
+- T. Schmidt
+- K. Schinarakis
+- S. Schlenstedt
+- D. Schneider
+- R. Schwarz
+- A. Silvestri
+- M. Solarz
+- G.M. Spiczak
+- C. Spiering
+- M. Stamatikos
+- T. Stanev
+- D. Steele
+- P. Steffen
+- R.G. Stokstad
+- K.-H. Sulanke
+- I. Taboada
+- S. Tilav
+- C. Walck
+- W. Wagner
+- Y.-R. Wang
+- A.A. Watson
+- C.H. Wiebusch
+- C. Wiedemann
+- R. Wischnewski
+- H. Wissing
+- K. Woschnagg
+- W. Wu
+- G. Yodh
+- S. Young
+date: '2004-01-01'
+publishDate: '2025-02-02T00:12:05.356920Z'
+publication_types:
+- article-journal
+publication: '*Astroparticle Physics*'
+doi: 10.1016/j.astropartphys.2004.04.007
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-4544328882&doi=10.1016%2fj.astropartphys.2004.04.007&partnerID=40&md5=b192f73fcc3d4d980df628c4d06ea13f
+---

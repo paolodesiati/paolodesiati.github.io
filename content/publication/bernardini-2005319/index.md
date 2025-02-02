@@ -1,0 +1,112 @@
+---
+title: New results from the AMANDA Neutrino telescope
+authors:
+- Elisa Bernardini
+- M. Ackermann
+- J. Ahrens
+- X. Bai
+- R. Bay
+- M. Bartelt
+- S.W. Barwick
+- T. Becka
+- J.K. Becker
+- K.H. Becker
+- D. Bertrand
+- D.J. Boersma
+- S. Böser
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- J. Braun
+- C. Burgess
+- T. Burgess
+- T. Castermans
+- A. Chen
+- D. Chirkin
+- B. Collin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. De Clercq
+- T. DeYoung
+- P. Desiati
+- P. Ekström
+- T. Feser
+- T.K. Gaisser
+- R. Ganugapati
+- H. Geenen
+- L. Gerhardt
+- A. Groß
+- A. Goldschmidt
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- D. Hardtke
+- R. Hardtke
+- T. Harenberg
+- T. Hauschildt
+- K. Helbing
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- J. Hodges
+- D. Hubert
+- B. Hughey
+- P.O. Hulth
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- K.H. Kampert
+- A. Karle
+- J.L. Kelley
+- M. Kestel
+- G. Kohnen
+- L. Köpke
+- M. Kowalski
+- M. Krasberg
+- K. Kuehn
+- H. Leich
+- M. Leuthold
+- I. Liubarsky
+- J. Lundberg
+- J. Madsen
+- P. Marciniewski
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- Y. Minaeva
+- P. Miočinović
+- R. Morse
+- K. Münich
+- J.K. Nam
+- R. Nahnhauer
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- H. Ögelman
+- Ph. Olbrechts
+- C. Pérez de los Heros
+- A.C. Pohl
+- R. Porrata
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- J. Rodríguez Martino
+- H.G. Sander
+- K. Schinarakis
+date: '2005-01-01'
+publishDate: '2025-02-02T00:12:05.300597Z'
+publication_types:
+- paper-conference
+publication: '*Nuclear Physics B - Proceedings Supplements*'
+doi: 10.1016/j.nuclphysbps.2005.04.030
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-18144390169&doi=10.1016%2fj.nuclphysbps.2005.04.030&partnerID=40&md5=177c4acb72401abac74fbffb627838bb
+---

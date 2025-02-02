@@ -1,0 +1,131 @@
+---
+title: Search for Extraterrestrial Point Sources of Neutrinos with AMANDA-II
+authors:
+- J. Ahrens
+- X. Bai
+- S.W. Barwick
+- T. Becka
+- J.K. Becker
+- E. Bernardini
+- D. Bertrand
+- F. Binon
+- A. Biron
+- D.J. Boersma
+- S. Böser
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- T. Burgess
+- S. Carius
+- T. Castermans
+- A. Chen
+- D. Chirkin
+- B. Collin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. De Clercq
+- T. DeYoung
+- P. Desiati
+- J.P. Dewulf
+- P. Ekström
+- T. Feser
+- T.K. Gaisser
+- R. Ganugapati
+- M. Gaug
+- H. Geenen
+- L. Gerhardt
+- A. Goldschmidt
+- A. Groß
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- R. Hardtke
+- T. Harenberg
+- T. Hauschildt
+- K. Helbing
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- D. Hubert
+- B. Hughey
+- P.O. Hulth
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- A. Karle
+- M. Kestel
+- L. Köpke
+- M. Kowalski
+- K. Kuehn
+- J.I. Lamoureux
+- H. Leich
+- M. Leuthold
+- P. Lindahl
+- I. Liubarsky
+- J. Madsen
+- K. Mandli
+- P. Marciniewski
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- Y. Minaeva
+- P. Miočinović
+- R. Morse
+- K. Münich
+- R. Nahnhauer
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- H. Ögelman
+- Ph. Olbrechts
+- C. Pérez de los Heros
+- A.C. Pohl
+- R. Porrata
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- J. Rodríguez Martino
+- H.G. Sander
+- K. Schinarakis
+- S. Schlenstedt
+- T. Schmidt
+- D. Schneider
+- R. Schwarz
+- A. Silvestri
+- M. Solarz
+- G.M. Spiczak
+- C. Spiering
+- M. Stamatikos
+- D. Steele
+- P. Steffen
+- R.G. Stokstad
+- K.H. Sulanke
+- I. Taboada
+- L. Thollander
+- S. Tilav
+- W. Wagner
+- C. Walck
+- Y.R. Wang
+- C.H. Wiebusch
+- C. Wiedemann
+- R. Wischnewski
+- H. Wissing
+- K. Woschnagg
+- G. Yodh
+date: '2004-01-01'
+publishDate: '2025-02-02T00:12:05.449366Z'
+publication_types:
+- article-journal
+publication: '*Physical Review Letters*'
+doi: 10.1103/PhysRevLett.92.071102
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-5444234270&doi=10.1103%2fPhysRevLett.92.071102&partnerID=40&md5=033d478af40bbfee878a594e7bba0a48
+---
