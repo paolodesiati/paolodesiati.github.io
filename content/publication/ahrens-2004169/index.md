@@ -1,0 +1,113 @@
+---
+title: Muon track reconstruction and data selection techniques in AMANDA
+authors:
+- J. Ahrens
+- X. Bai
+- R. Bay
+- S.W. Barwick
+- T. Becka
+- J.K. Becker
+- K.-H. Becker
+- E. Bernardini
+- D. Bertrand
+- A. Biron
+- D.J. Boersma
+- S. Böser
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- T. Burgess
+- S. Carius
+- T. Castermans
+- D. Chirkin
+- B. Collin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. De Clercq
+- T. DeYoung
+- P. Desiati
+- J.-P. Dewulf
+- P. Ekström
+- T. Feser
+- M. Gaug
+- T.K. Gaisser
+- R. Ganugapati
+- H. Geenen
+- L. Gerhardt
+- A. Groß
+- A. Goldschmidt
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- R. Hardtke
+- T. Harenberg
+- T. Hauschildt
+- K. Helbing
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- D. Hubert
+- B. Hughey
+- P.O. Hulth
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- A. Karle
+- M. Kestel
+- L. Köpke
+- M. Kowalski
+- K. Kuehn
+- J.I. Lamoureux
+- H. Leich
+- M. Leuthold
+- P. Lindahl
+- I. Liubarsky
+- J. Madsen
+- P. Marciniewski
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- Y. Minaeva
+- P. Miočinović
+- P.C. Mock
+- R. Morse
+- K.S. Münich
+- J. Nam
+- R. Nahnhauer
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- H. Ögelman
+- Ph. Olbrechts
+- C. Pérez De Los Heros
+- A.C. Pohl
+- R. Porrata
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- J. Rodríguez Martino
+- D. Ross
+- H.-G. Sander
+- K. Schinarakis
+- S. Schlenstedt
+- T. Schmidt
+- D. Schneider
+- C.H. Wiebusch
+date: '2004-01-01'
+publishDate: '2025-02-02T00:12:05.439534Z'
+publication_types:
+- article-journal
+publication: '*Nuclear Instruments and Methods in Physics Research, Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment*'
+doi: 10.1016/j.nima.2004.01.065
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-2342660756&doi=10.1016%2fj.nima.2004.01.065&partnerID=40&md5=9db31d1789150d3ee4e2ce9d4f21f4ab
+---

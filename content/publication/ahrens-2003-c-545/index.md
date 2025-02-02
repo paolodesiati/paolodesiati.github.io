@@ -1,0 +1,119 @@
+---
+title: Results from the AMANDA telescope
+authors:
+- J. Ahrens
+- X. Bai
+- S.W. Barwick
+- T. Becka
+- K.-H. Becker
+- E. Bernardini
+- D. Bertrand
+- F. Binon
+- A. Biron
+- S. Böser
+- O. Botner
+- O. Bouhali
+- T. Burgess
+- S. Carius
+- T. Castermans
+- D. Chirkin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. de Clercq
+- T. de Young
+- P. Desiati
+- J.-P. Dewulf
+- P. Ekström
+- T. Feser
+- T.K. Gaisser
+- R. Ganupati
+- M. Gaug
+- H. Geenen
+- L. Gerhardt
+- A. Goldschmidt
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- R. Hardtke
+- T. Hauschildt
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- P.O. Hulth
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- A. Karle
+- L. Köpke
+- K. Kuehn
+- M. Kowalski
+- J.I. Lamoureux
+- H. Leich
+- M. Leuthold
+- P. Lindahl
+- I. Liubaxsky
+- J. Madsen
+- K. Mandli
+- P. Marciniewski
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- Y. Minaeva
+- P. Miočinović
+- R. Morse
+- R. Nahnhauer
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- H. Ogelman
+- P. Olbrechts
+- C. Pérez de los Heros
+- A.C. Pohl
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- J. Rodríguez Martino
+- H.-G. Sander
+- T. Schmidt
+- D. Schneider
+- K. Schinarakis
+- R. Schwarz
+- A. Silvestri
+- M. Solarz
+- G.M. Spiczak
+- C. Spiering
+- D. Steele
+- P. Steffen
+- R.G. Stokstad
+- P. Sudoff
+- K.-H. Sulanke
+- I. Taboada
+- L. Thollander
+- S. Tilav
+- W. Wagner
+- C. Walck
+- C. Weinheimer
+- C.H. Wiebusch
+- C. Wiedemann
+- R. Wischnewski
+- H. Wissing
+- K. Woschnagg
+- G. Yodh
+- S. Young
+date: '2003-01-01'
+publishDate: '2025-02-02T00:12:05.419095Z'
+publication_types:
+- article-journal
+publication: '*Nuclear Physics A*'
+doi: 10.1016/S0375-9474(03)01120-5
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-0042882784&doi=10.1016%2fS0375-9474%2803%2901120-5&partnerID=40&md5=382a1b6511315c97e3859a37ff66a424
+---

@@ -1,0 +1,112 @@
+---
+title: Results from the AMANDA detector
+authors:
+- M. Ackermann
+- J. Ahrens
+- H. Albrecht
+- X. Bai
+- R. Bay
+- M. Bartelt
+- S.W. Barwick
+- T. Becka
+- K.H. Becker
+- J.K. Becker
+- E. Bernardini
+- D. Bertrand
+- D.J. Boersma
+- S. Böser
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- J. Braun
+- C. Burgess
+- T. Burgess
+- T. Castermans
+- D. Chirkin
+- B. Collin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. De Clercq
+- T. DeYoung
+- P. Desiati
+- P. Ekström
+- T. Feser
+- T.K. Gaisser
+- R. Ganugapati
+- H. Geenen
+- L. Gerhardt
+- A. Goldschmidt
+- A. Gross
+- A. Halloren
+- F. Halzen
+- K. Hanson
+- R. Hardtke
+- T. Harenberg
+- T. Hauschildt
+- K. Helbing
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- J. Hodges
+- D. Hubert
+- B. Hughey
+- P.O. Hulth
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- K.H. Kampert
+- A. Karle
+- J. Kelley
+- M. Kestel
+- L. Köpke
+- M. Kowalski
+- M. Krasberg
+- K. Kuehn
+- H. Leich
+- M. Leuthold
+- I. Liubarsky
+- J. Madsen
+- K. Mandli
+- P. Marciniewski
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- Y. Minaeva
+- P. Miocinović
+- R. Morse
+- K. Münich
+- R. Nahnhauer
+- J.W. Nam
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nyoren
+- H. Ögelman
+- Ph. Olbrechts
+- C. Pérez De Los Heros
+- A.C. Pohl
+- R. Porrata
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- J. Rodríquez Martino
+- H.G. Sander
+- K. Schinarakis
+- S. Schlenstedt
+- D. Schneider
+- R. Schwarz
+date: '2004-01-01'
+publishDate: '2025-02-02T00:12:05.409370Z'
+publication_types:
+- paper-conference
+publication: '*Acta Physica Polonica B*'
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-3042821993&partnerID=40&md5=61c599811930e4a449840f4048431e3d
+---

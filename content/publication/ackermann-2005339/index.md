@@ -1,0 +1,113 @@
+---
+title: Flux limits on ultra high energy neutrinos with AMANDA-B10
+authors:
+- M. Ackermann
+- J. Ahrens
+- H. Albrecht
+- D. Atlee
+- X. Bai
+- R. Bay
+- M. Bartelt
+- S.W. Barwick
+- T. Becka
+- K.H. Becker
+- J.K. Becker
+- E. Bernardini
+- D. Bertrand
+- D.J. Boersma
+- S. Böser
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- J. Braun
+- C. Burgess
+- T. Burgess
+- T. Castermans
+- D. Chirkin
+- T. Coarasa
+- B. Collin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. De Clercq
+- T. De Young
+- P. Desiati
+- P. Ekström
+- T. Feser
+- T.K. Gaisser
+- R. Ganugapati
+- H. Geenen
+- L. Gerhardt
+- A. Goldschmidt
+- A. Groß
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- D. Hardtke
+- R. Hardtke
+- T. Harenberg
+- T. Hauschildt
+- K. Helbing
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- J. Hodges
+- D. Hubert
+- B. Hughey
+- P.O. Hulth
+- K. Hultqvist
+- Stephan Hundertmark
+- J. Jacobsen
+- K.H. Kampert
+- A. Karle
+- J. Kelley
+- M. Kestel
+- L. Köpke
+- M. Kowalski
+- M. Krasberg
+- K. Kuehn
+- H. Leich
+- M. Leuthold
+- J. Lundberg
+- J. Madsen
+- K. Mandli
+- P. Marciniewski
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- Y. Minaeva
+- P. Miočinović
+- R. Morse
+- S. Movit
+- K. Münich
+- R. Nahnhauer
+- J.W. Nam
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- H. Ögelman
+- Ph. Olbrechts
+- C. Pérez de los Heros
+- A.C. Pohl
+- R. Porrata
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- J. Rodríguez Martino
+- D. Rutledge
+date: '2005-01-01'
+publishDate: '2025-02-02T00:12:05.459714Z'
+publication_types:
+- article-journal
+publication: '*Astroparticle Physics*'
+doi: 10.1016/j.astropartphys.2004.09.008
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-19944430055&doi=10.1016%2fj.astropartphys.2004.09.008&partnerID=40&md5=f134c20016a6af4b95d9e4192385d1d0
+---

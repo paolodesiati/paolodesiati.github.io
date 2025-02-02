@@ -1,0 +1,113 @@
+---
+title: New results from the antarctic muon and neutrino detector array
+authors:
+- K. Woschnagg
+- M. Ackermann
+- J. Ahrens
+- H. Albrecht
+- D.W. Atlee
+- X. Bai
+- R. Bay
+- M. Bartelt
+- S.W. Barwick
+- T. Becka
+- K.-H. Becker
+- J.K. Becker
+- E. Bernardini
+- D. Bertrand
+- D.J. Boersma
+- D. Böser
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- J. Braun
+- C. Burgess
+- T. Burgess
+- T. Castermans
+- D. Chirkin
+- B. Collin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. De Clercq
+- T. DeYoung
+- P. Desiati
+- P. Ekström
+- T. Feser
+- T.K. Gaisser
+- R. Ganugapati
+- H. Geenen
+- L. Gerhardt
+- A. Goldschmidt
+- A. Groß
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- D. Hardtke
+- R. Hardtke
+- T. Harenberg
+- T. Hauschildt
+- K. Helbing
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- J. Hodges
+- D. Hubert
+- B. Hughey
+- P.O. Hulth
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- K.-H. Kampert
+- A. Karle
+- J. Kelly
+- M. Kestel
+- L. Köpke
+- M. Kowalski
+- J. Krasberg
+- K. Kuehn
+- H. Leich
+- M. Leuthold
+- J. Lindberg
+- J. Madsen
+- K. Mandli
+- P. Marciniewski
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- Y. Minaeva
+- P. Miočinović
+- R. Morse
+- K. Münich
+- R. Nahnhauer
+- J.W. Nam
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- H. Ögelman
+- Ph. Olbrechts
+- C. Pérez de los Heros
+- A.C. Pohl
+- R. Porrata
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- J. Rodríguez Martino
+- H.-G. Sender
+- K. Schinarakis
+date: '2005-01-01'
+publishDate: '2025-02-02T00:12:05.117162Z'
+publication_types:
+- article-journal
+publication: '*Nuclear Physics B - Proceedings Supplements*'
+doi: 10.1016/j.nuclphysbps.2005.01.127
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-14644386750&doi=10.1016%2fj.nuclphysbps.2005.01.127&partnerID=40&md5=cb4ff809a63057ba773aeb36d21f4eb0
+---

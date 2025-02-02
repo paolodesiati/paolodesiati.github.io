@@ -1,0 +1,141 @@
+---
+title: Exploring the high-energy neutrino universe from the south pole - Results from
+  amanda and status of icecube
+authors:
+- Kurt Woschnagg
+- M. Ackermann
+- J. Ahrens
+- D.W. Atlee
+- X. Bai
+- R. Bay
+- M. Bartelt
+- S.W. Barwick
+- T. Becka
+- K.-H. Becker
+- J.K. Becker
+- E. Bernardini
+- D. Bertrand
+- D.J. Boersma
+- S. Böser
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- J. Braun
+- C. Burgess
+- T. Burgess
+- T. Castermans
+- D. Chirkin
+- J.A. Coarasa
+- B. Collin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. De Clercq
+- T. Deyoung
+- P. Desiati
+- P. Ekström
+- T. Feser
+- T.K. Gaisser
+- R. Ganugapati
+- H. Geenen
+- A. Goldschmidt
+- A. Groß
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- D. Hardtke
+- R. Hardtke
+- T. Harenberg
+- T. Hauschildt
+- K. Helbing
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- J. Hodges
+- D. Hubert
+- B. Hughey
+- P.O. Hulth
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- K.-H. Kampert
+- A. Karle
+- J. Kelley
+- M. Kestel
+- L. Köpke
+- M. Kowalski
+- M. Krasberg
+- K. Kuehn
+- R. Lang
+- H. Leich
+- M. Leuthold
+- J. Lundberg
+- J. Madsen
+- K. Mandli
+- P. Marciniewski
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- Y. Minaeva
+- P. Miočinovic̀
+- R. Morse
+- K. Münich
+- R. Nahnhauer
+- J.W. Nam
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- Ph. Olbrechts
+- C. Pérez De Los Heros
+- D. Pieloth
+- A.C. Pohl
+- R. Porrata
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- H.-G. Sander
+- K. Schinarakis
+- S. Schlenstedt
+- D. Schneider
+- R. Schwarz
+- S.H. Seo
+- A. Silvestri
+- M. Solarz
+- G.M. Spiczak
+- C. Spiering
+- M. Stamatikos
+- D. Steele
+- P. Steffen
+- R.G. Stokstad
+- K.-H. Sulanke
+- I. Taboada
+- O. Tarasova
+- L. Thollander
+- S. Tilav
+- J. Vandenbroucke
+- L.C. Voicu
+- B. Voigt
+- W. Wagner
+- C. Walck
+- M. Walter
+- Y.R. Wang
+- C.H. Wiebusch
+- R. Wischnewski
+- H. Wissing
+- K. Woschnagg
+- G. Yodh
+date: '2005-01-01'
+publishDate: '2025-02-02T00:12:04.560498Z'
+publication_types:
+- paper-conference
+publication: '*Frascati Physics Series*'
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-84880981869&partnerID=40&md5=e6237fe97c68687405a42cea87166ddc
+---

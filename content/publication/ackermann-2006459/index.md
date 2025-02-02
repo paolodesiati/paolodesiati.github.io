@@ -1,0 +1,113 @@
+---
+title: Limits to the muon flux from neutralino annihilations in the Sun with the AMANDA
+  detector
+authors:
+- M. Ackermann
+- J. Ahrens
+- X. Bai
+- M. Bartelt
+- S.W. Barwick
+- R.C. Bay
+- T. Becka
+- K.-H. Becker
+- J.-K. Becker
+- P. Berghaus
+- E. Bernardini
+- D. Bertrand
+- D.J. Boersma
+- S. Böser
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- C. Burgess
+- T. Burgess
+- T. Castermans
+- D. Chirkin
+- B. Collin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- M. D'Agostino
+- A. Davour
+- C. De Clercq
+- C.P. De Los Heros
+- T. Deyoung
+- P. Desiati
+- P. Ekström
+- T. Feser
+- T.K. Gaisser
+- R. Ganugapati
+- H. Geenen
+- L. Gerhardt
+- A. Goldschmidt
+- A. Gross
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- D.H. Hardtke
+- T. Harenberg
+- T. Hauschildt
+- M. Hellwig
+- K. Helbing
+- P. Herquet
+- G.C. Hill
+- J. Hodges
+- D. Hubert
+- B. Hughey
+- P.O. Hulth
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- K.H. Kampert
+- A. Karle
+- M. Kestel
+- G. Kohnen
+- L. Köpke
+- M. Kowalski
+- K. Kuehn
+- R. Lang
+- H. Leich
+- M. Leuthold
+- I. Liubarsky
+- J. Lundberg
+- J. Madsen
+- P. Marciniewski
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- Y. Minaeva
+- P. Miočinović
+- R. Morse
+- K. Münich
+- R. Nahnhauer
+- J.W. Nam
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- H. Ögelman
+- Ph. Olbrechts
+- A. Pohl
+- R. Porrata
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- S. Robbins
+- J. Rodríguez Martino
+- H.-G. Sander
+- S. Schlenstedt
+- D. Schneider
+date: '2006-01-01'
+publishDate: '2025-02-02T00:12:04.544706Z'
+publication_types:
+- article-journal
+publication: '*Astroparticle Physics*'
+doi: 10.1016/j.astropartphys.2005.09.006
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-29244443957&doi=10.1016%2fj.astropartphys.2005.09.006&partnerID=40&md5=b75e816a8378f56ae5c0a54dd2b8c184
+---

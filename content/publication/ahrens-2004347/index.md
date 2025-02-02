@@ -1,0 +1,138 @@
+---
+title: Calibration and survey of AMANDA with the SPASE detectors
+authors:
+- J. Ahrens
+- X. Bai
+- S.W. Barwick
+- R.C. Bay
+- T. Becka
+- K.-H. Becker
+- E. Bernardini
+- D. Bertrand
+- F. Binon
+- A. Biron
+- S. Böser
+- O. Botner
+- A. Bouchta
+- O. Bouhali
+- T. Burgess
+- S. Carius
+- T. Castermans
+- D. Chirkin
+- J. Conrad
+- J. Cooley
+- D.F. Cowen
+- A. Davour
+- C. de Clercq
+- T. DeYoung
+- P. Desiati
+- P. Doksus
+- P. Ekström
+- R. Engel
+- P. Evenson
+- T. Feser
+- T.K. Gaisser
+- R. Ganugapati
+- M. Gaug
+- H. Geenen
+- L. Gerhardt
+- A. Goldschmidt
+- A. Hallgren
+- F. Halzen
+- K. Hanson
+- R. Hardtke
+- T. Hauschildt
+- M. Hellwig
+- P. Herquet
+- G.C. Hill
+- J.A. Hinton
+- B. Hughey
+- P.O. Hulth
+- K. Hultqvist
+- S. Hundertmark
+- J. Jacobsen
+- A. Karle
+- J. Kim
+- L. Köpke
+- M. Kowalski
+- K. Kuehn
+- J.I. Lamoureux
+- H. Leich
+- M. Leuthold
+- P. Lindahl
+- I. Liubarsky
+- J. Lloyd-Evans
+- J. Madsen
+- K. Mandli
+- P. Marciniewski
+- D. Martello
+- H.S. Matis
+- C.P. McParland
+- T. Messarius
+- T.C. Miller
+- Y. Minaeva
+- P. Miočinović
+- P.C. Mock
+- R. Morse
+- T. Neunhöffer
+- P. Niessen
+- D.R. Nygren
+- H. Ögelman
+- P. Olbrechts
+- C. Perez de los Heros
+- A.C. Pohl
+- R. Porrata
+- P.B. Price
+- G.T. Przybylski
+- K. Rawlins
+- E. Resconi
+- W. Rhode
+- M. Ribordy
+- S. Richter
+- K. Rochester
+- J. Rodríguez Martino
+- P. Romenesko
+- D. Ross
+- H.-G. Sander
+- T. Schmidt
+- K. Schinarakis
+- S. Schlenstedt
+- D. Schneider
+- R. Schwarz
+- A. Silvestri
+- M. Solarz
+- G.M. Splczak
+- C. Spiering
+- M. Stamatikos
+- T. Stanev
+- D. Steele
+- P. Steffen
+- R.G. Stokstad
+- K.-H. Sulanke
+- I. Taboada
+- S. Tilav
+- C. Walck
+- W. Wagner
+- Y.-R. Wang
+- A.A. Watson
+- C. Weinheimer
+- C.H. Wiebusch
+- C. Wiedemann
+- R. Wischnewski
+- H. Wissing
+- K. Woschnagg
+- W. Wu
+- G. Yodh
+- S. Young
+date: '2004-01-01'
+publishDate: '2025-02-02T00:12:05.377447Z'
+publication_types:
+- article-journal
+publication: '*Nuclear Instruments and Methods in Physics Research, Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment*'
+doi: 10.1016/j.nima.2003.12.007
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-11144356518&doi=10.1016%2fj.nima.2003.12.007&partnerID=40&md5=be62d7a725f125a00bfcf864fad621a2
+---
