@@ -17,17 +17,24 @@ tags:
 
 ### IceCube Collaborators
 - **Juan Carlos Díaz Vélez** (WIPAC)
-  - Cosmic-Ray science analyses with HAWC and IceCube
+  - Cosmic-ray science analyses with HAWC and IceCube.
+  - Cosmic-ray energy reconstruction strategies for anisotropy analyses.
+  - Measurement of the Compton-Getting effect with IceCube.
   - Computing and programming support
-  - Student mentoring
 - **Rasha Abbasi** (Loyola University - Chicago)
-  - Cosmic-Ray analysis with IceTop
+  - Cosmic-ray analysis with IceTop.
 - **Frank McNally** (Mercer University)
-  - Cosmic-Ray analysis with IceCube and IceTop
+  - Cosmic-ray analysis with IceCube and IceTop.
+ 
+### HAWC Collaborators
+- **Juan Carlos Arteaga**
+  - Cosmic-ray energy and mass reconstruction strategies with HAWC.
  
 ### External Collaborations
-- **Name**
-  - Task
+- **GRAPES-3**
+  - Combined analysis with IceCube and GRAPES-3 data in the 10-100 TeV energy range (MoU established).
+- **KASCADE**
+  - Combined analysis with IceTop and KASCADE archival data in the PeV energy range.
 
 
 <!--more-->
