@@ -39,8 +39,8 @@ sections:
 
         **IceCube** Leading the cosmic-ray analyses in IceCube since 2006. Co-PI of the current IceCube Cosmic Ray
         Analysis sub-award (funded by NSF; UW–Madison PI: Desiati). I lead a working group on cosmic-ray anisotropy
-        analyses, including Prof. Rasha Abbasi (Loyola University Chicago), Prof. Frank McNally (Mercer University),
-        and Dr. Juan Carlos Díaz Vélez (WIPAC).
+        analyses at UW-Madison in collaboration with Dr. Juan Carlos Díaz Vélez (WIPAC), Prof. Rasha Abbasi (Loyola
+        University Chicago), Prof. Frank McNally (Mercer University).
     
         **IceCube** Collaboration with Prof. Julia Becker Tjus (University of Bochum, Germany) and the Bochum group on
         the observation of the cosmic-ray shadow cast by the Moon and the Sun using IceCube data and the numerical
