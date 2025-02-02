@@ -3,7 +3,7 @@
 title: Paolo Desiati
 
 # Name pronunciation (optional)
-name_pronunciation: Paolo Desiati
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Paolo
@@ -63,28 +63,71 @@ education:
     summary: |
       Cosmic-ray physics at the Gran Sasso National Laboratory in Italy.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Assistant Research Professor
+    company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - PI of cosmic-ray analyses with IceCube at UW–Madison
+      - PI of cosmic-ray analyses in the US with HAWC at UW–Madison
+      - Member of the cosmic-ray science task force in the SWGO collaboration
+  - position: Senior Scientist
+    company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2013
+    date_end: 2022
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Cosmic-ray science analyses with IceCube
+      - Coordination between M&O and science working groups in IceCube
+  - position: Associate Scientist
+    company_name: University of Wisconsin - Madison
+    company_url: ''
+    company_logo: ''
+    date_start: 2010
+    date_end: 2013
+    summary: |
+  - position: Associate Researcher
+    company_name: University of Wisconsin - Madison
+    company_url: ''
+    company_logo: ''
+    date_start: 2006
+    date_end: 2010
+    summary: |
+  - position: Assistant Researcher
+    company_name: University of Wisconsin - Madison
+    company_url: ''
+    company_logo: ''
+    date_start: 2003
+    date_end: 2006
+    summary: |
+      Responsibilities include:
+      - Cosmic-ray science analyses with the IceCube Neutrino Observatory
+      - Maintenance and Operations (M&O) with IceCube
+  - position: Research Associate
+    company_name: University of Wisconsin - Madison
+    company_url: ''
+    company_logo: ''
+    date_start: 2001
+    date_end: 2003
+    summary: |
+      Responsibilities include:
+      - Neutrino analyses and simulation production with AMANDA
+  - position: Reimar Lüst Fellow
+    company_name: DESY - Zeuthen (Germany)
+    company_url: ''
+    company_logo: ''
+    date_start: 1999
+    date_end: 2001
+    summary: |
+      Responsibilities include:
+      - Two-year Reimar Lüst stipend from Körber Stiftung, Hamburg, for post-doctoral
+        astrophysics research with the AMANDA neutrino telescope
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
