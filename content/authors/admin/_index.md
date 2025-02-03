@@ -51,8 +51,8 @@ interests:
 education:
   - area: PhD Physics
     institution: Sapienza - Università di Roma (Italy)
-    date_start: 1996
-    date_end: 1999
+    date_start: 1996-09-01
+    date_end: 1999-09-01
     summary: |
       Neutrino astrophysics with the NESTOR neutrino telescope project in Greece.
 #    button:
@@ -60,8 +60,8 @@ education:
 #      url: 'https://example.com'
   - area: MSc Physics
     institution: Università degli Studi di Firenze (Italy)
-    date_start: 1989
-    date_end: 1994
+    date_start: 1989-09-01
+    date_end: 1994-09-01
     summary: |
       - Cosmic-ray physics at the Gran Sasso National Laboratory in Italy.
       - One-year fellowship by INFN for cosmic-ray research (1993-1994)
@@ -70,7 +70,7 @@ work:
     company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2022-04
+    date_start: 2022-04-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -81,8 +81,8 @@ work:
     company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2013-01
-    date_end: 2022-01
+    date_start: 2013-01-01
+    date_end: 2022-01-01
     summary: |
       Responsibilities include:
       - Cosmic-ray science analyses with IceCube
@@ -91,22 +91,22 @@ work:
     company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2010-01
-    date_end: 2013-01
+    date_start: 2010-01-01
+    date_end: 2013-01-01
     summary: |
   - position: Associate Researcher
     company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2006-01
-    date_end: 2010-01
+    date_start: 2006-01-01
+    date_end: 2010-01-01
     summary: |
   - position: Assistant Researcher
     company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2003-10
-    date_end: 2006-01
+    date_start: 2003-10-01
+    date_end: 2006-01-01
     summary: |
       Responsibilities include:
       - Cosmic-ray science analyses with the IceCube Neutrino Observatory
@@ -115,8 +115,8 @@ work:
     company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2001-07
-    date_end: 2003-09
+    date_start: 2001-07-01
+    date_end: 2003-09-01
     summary: |
       Responsibilities include:
       - Neutrino analyses and simulation production with AMANDA
@@ -124,8 +124,8 @@ work:
     company_name: DESY - Zeuthen (Germany)
     company_url: ''
     company_logo: ''
-    date_start: 1999-05
-    date_end: 2001-06
+    date_start: 1999-05-01
+    date_end: 2001-06-01
     summary: |
       Responsibilities include:
       - Two-year Reimar Lüst stipend from Körber Stiftung, Hamburg, for post-doctoral
