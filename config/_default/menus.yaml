@@ -23,7 +23,7 @@ main:
     url: experience/
     weight: 20
   - name: Workshops
-    url: cra/
+    url: workshops/
     weight: 13
   - name: Projects
     url: projects/
