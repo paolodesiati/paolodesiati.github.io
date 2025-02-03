@@ -13,10 +13,17 @@ sections:
     content:
       title: Cosmic Ray Anisotropy Workshop
       text: 
-      I created a multidisciplinary community of researchers (astrophysics, heliophysics, plasma physics, astronomy, including the interstellar medium) to exchange ideas and models on cosmic ray anisotropy and particle propagation as well as heliospheric and interstellar medium properties. We meet biennially at the Cosmic Ray Anisotropy Workshop to discuss and summarize our research. Our discussions have inspired new ideas, collaborations, and research questions. Action items included:
-    - Sharing advanced computational heliospheric models to assess the heliosphere’s impact on cosmic-ray particles traveling to Earth.
-    -  Noting that progress in astrophysics necessitates collaboration between cosmic-ray experiment teams to improve detection instruments and results.
-    -  Recognizing that astrophysicists often oversimplify the Milky Way model when studying cosmic-ray diffusion, neglecting its inhomogeneity, which more recent models now aim to address.
+      I created a multidisciplinary community of researchers (astrophysics, heliophysics, plasma physics, astronomy, 
+      including the interstellar medium) to exchange ideas and models on cosmic ray anisotropy and particle propagation 
+      as well as heliospheric and interstellar medium properties. We meet biennially at the Cosmic Ray Anisotropy 
+      Workshop to discuss and summarize our research. Our discussions have inspired new ideas, collaborations, and 
+      research questions. Action items included:
+      - Sharing advanced computational heliospheric models to assess the heliosphere’s impact on cosmic-ray particles 
+        traveling to Earth.
+      -  Noting that progress in astrophysics necessitates collaboration between cosmic-ray experiment teams to improve 
+         detection instruments and results.
+      -  Recognizing that astrophysicists often oversimplify the Milky Way model when studying cosmic-ray diffusion, 
+         neglecting its inhomogeneity, which more recent models now aim to address.
       filters:
         folders:
           - cra
