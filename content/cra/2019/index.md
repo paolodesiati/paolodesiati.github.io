@@ -1,6 +1,6 @@
 ---
-title: CRA 2023 - Gran Sasso Science Institute (Italy)
-date: 2023-05-16
+title: CRA 2019 - Gran Sasso Science Institute (Italy)
+date: 2019-10-07
 external_link: https://indico.gssi.it/event/45/
 tags:
   - cosmic rays
