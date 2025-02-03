@@ -24,7 +24,7 @@ sections:
         and results. 3) Recognizing that astrophysicists often oversimplify the Milky Way model when studying cosmic- 
         ray diffusion, neglecting its inhomogeneity, which more recent models now aim to address.
 
-        **Thw next edition will be hosted at Columbia University in 2026**.
+        The next edition will be hosted at **Columbia University** in 2026.
       filters:
         folders:
           - cra
