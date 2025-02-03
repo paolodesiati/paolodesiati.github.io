@@ -160,11 +160,11 @@ skills:
      - name: Hiking
        description: ''
        percent: 70
-       icon: person-simple-walk
+       icon: walking
      - name: Theater
        description: ''
        percent: 100
-       icon: theatre
+       icon: theater
 
 languages:
   - name: Italian
