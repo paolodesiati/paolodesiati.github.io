@@ -176,14 +176,21 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#  - title: Neural Networks and Deep Learning
+awards:
+ - title: Reimar Lüst Stipendium
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
-#    date: '2023-11-25'
-#    awarder: Coursera
+   date: '1999-05-01'
+   awarder: Körber Stiftung, Hamburg (Germany)
 #    icon: coursera
-#    summary: |
-#      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+   summary: |
+     The fellowship was awarded to work as a postdoc at the Deutsches Elektronen-Synchrotron (DESY) in Zeuthen (Germany). The project was the study of cosmic-ray-induced neutrinos and muons collected by the AMANDA neutrino telescope at the geographic South Pole. I was also actively involved in constructing the AMANDA experiment in the antarctic summer of 2000 and deploying a control system for the so-called *digitally controlled Analog Optical Modules* (dAOM) in 2001. The dAOMs were a possible technology for the future of neutrino observatories, at the time.
+ - title: Undergraduate Research Fellowship
+#    url: https://www.coursera.org/learn/neural-networks-deep-learning
+   date: '1993-05-01'
+   awarder: Istituto Nazionale di Fisica Nucleare (INFN)
+#    icon: coursera
+   summary: |
+     The fellowship was awarded to perform research with the Large Volume Detector (LVD) at the Gran Sasso National Laboratory (Italy) toward my master's thesis (Tesi di Laurea). The work was the analysis of cosmic-ray events collected by the LVD experiment to investigate the muon events for different cosmic-ray mass composition models.
 #  - title: Blockchain Fundamentals
 #    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #    date: '2023-07-01'
