@@ -70,7 +70,7 @@ work:
     company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2022
+    date_start: 2022-04
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -81,8 +81,8 @@ work:
     company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2013
-    date_end: 2022
+    date_start: 2013-01
+    date_end: 2022-01
     summary: |
       Responsibilities include:
       - Cosmic-ray science analyses with IceCube
@@ -91,22 +91,22 @@ work:
     company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2010
-    date_end: 2013
+    date_start: 2010-01
+    date_end: 2013-01
     summary: |
   - position: Associate Researcher
     company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2006
-    date_end: 2010
+    date_start: 2006-01
+    date_end: 2010-01
     summary: |
   - position: Assistant Researcher
     company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2003
-    date_end: 2006
+    date_start: 2003-10
+    date_end: 2006-01
     summary: |
       Responsibilities include:
       - Cosmic-ray science analyses with the IceCube Neutrino Observatory
@@ -115,8 +115,8 @@ work:
     company_name: University of Wisconsin - Madison
     company_url: ''
     company_logo: ''
-    date_start: 2001
-    date_end: 2003
+    date_start: 2001-07
+    date_end: 2003-09
     summary: |
       Responsibilities include:
       - Neutrino analyses and simulation production with AMANDA
@@ -124,8 +124,8 @@ work:
     company_name: DESY - Zeuthen (Germany)
     company_url: ''
     company_logo: ''
-    date_start: 1999
-    date_end: 2001
+    date_start: 1999-05
+    date_end: 2001-06
     summary: |
       Responsibilities include:
       - Two-year Reimar Lüst stipend from Körber Stiftung, Hamburg, for post-doctoral
