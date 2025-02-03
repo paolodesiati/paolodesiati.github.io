@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Cosmic Ray Anisotropy Workshop
-      text: 
+    text: 
       I created a multidisciplinary community of researchers (astrophysics, heliophysics, plasma physics, astronomy, 
       including the interstellar medium) to exchange ideas and models on cosmic ray anisotropy and particle propagation 
       as well as heliospheric and interstellar medium properties. We meet biennially at the Cosmic Ray Anisotropy 
