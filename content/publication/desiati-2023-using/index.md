@@ -2,7 +2,7 @@
 title: Using TeV Cosmic Rays to probe the Heliosphere's Boundary with the Local Interstellar Medium
 authors:
 - Paolo Desiati
-- Juan Carlos D\íaz V ́elez
+- Juan Carlos Díaz Vélez
 - Gwenael Giacinti
 - Francesco Longo
 - Elena Orlando
