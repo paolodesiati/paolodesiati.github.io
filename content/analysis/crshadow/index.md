@@ -1,0 +1,13 @@
+---
+title: Sun & Moon cosmic-ray shadow
+date: 2025-02-01
+external_link: https://paolodesiati.github.io/analysis/crshadow
+tags:
+  - astrophysics
+  - gamma rays
+  - cosmic rays
+---
+
+This is a summary description of the cosmic-ray Sun and Moon shadow analyses, in collaboration with Prof. Julia Becker Tjus and the Bochum University group.
+
+<!--more-->
