@@ -7,6 +7,8 @@ design:
   # Section spacing
   spacing: '5rem'
 
+---
+
 ## Summary
 ### Science Projects
 - High Altitude Water Cherenkov (HAWC) Gamma-Ray Observatory
