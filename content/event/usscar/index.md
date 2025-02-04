@@ -2,17 +2,17 @@
 title: The Anisotropy of Galactic Cosmic Ray and their Interaction in the Dynamic Antarctic Atmosphere
 
 event: US Antarctic Science Meeting
-event_url: [https://example.org](https://usscar.org/2023-us-antarctic-science-meeting)
+event_url: https://usscar.org/2023-us-antarctic-science-meeting
 
 location: Online
 # address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
+#  street: 1032 W. Sheridan Road
+#  city: Chicago
+#  region: IL
+#  postcode: '60660'
 #  country: United States
 
-summary: Lightning talk on **The Anisotropy of Galactic Cosmic Ray and their Interaction in the Dynamic Antarctic Atmosphere**.
+summary: Lightning talk at the US Antarctic Science Meeting.
 abstract: US-SCAR is hosting a meeting for US scientists who are conducting research in, from or about Antarctica and the Southern Ocean. Scientists interested in getting involved in Antarctic research through US programs are also welcome and encouraged to attend. This conference is open to all US scientists and anyone interested in US Antarctic research. There is no registration fee. The meeting will provide opportunities for US Antarctic scientists to get together and present their work, and for early career researchers and others new to Antarctic science to learn about SCAR and the various resources available to US scientists for Antarctic-related research. There will be a mix of Lightning Talks, panels and social activities for the US Antarctic Community to meet and interact. The meeting and associated events will be on Zoom. The schedule (see below) is set for two hours each day (one hour science and one hour panel) with additional time added for socializing. The panels will have brief presentations by panelists, and most of the time will be devoted to questions and discussion. The meeting will be similar in format to the 2021 US Antarctic Science Meeting. 
 
 # Talk start and end times.
@@ -27,13 +27,14 @@ publishDate: '2023-06-23'
 authors:
   - admin
 
-tags: []
+tags:
+  - cosmic rays
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  # caption: 'Image credit: [**LUC**](https://www.luc.edu/media/lucedu/universityhomepage/2024-random-images/winter-2024/1800x450_3.jpg)'
   focal_point: Right
 
 #links:
