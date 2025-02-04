@@ -84,15 +84,15 @@ sections:
     design:
       view: citation
   - block: collection
-   id: talks
-   content:
-     title: Recent Talks
-     filters:
-       folders:
-         - event
-   design:
-     view: article-grid
-     columns: 3
+    id: talks
+    content:
+      title: Recent Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 3
   # - block: collection
   #  id: news
   #  content:
