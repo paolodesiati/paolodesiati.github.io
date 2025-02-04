@@ -31,9 +31,9 @@ abstract: The heliosphere is the magnetic structure formed by the Sun’s atmosp
 summary: The outer heliosphere regulates cosmic ray penetration into near-Earth space, reduces space radiation, and makes life possible in our solar system. Voyager and IBEX in-situ and remote observations of the outer heliosphere and the distorted local interstellar magnetic are important for heliospheric modeling. TeV cosmic rays provide a new tool to study the heliosphere interstellar medium boundary.
 
 tags:
-- Cosmic-ray
-- anisotropy
 - heliophysics
+- cosmic rays
+- anisotropy
 
 featured: true
 
