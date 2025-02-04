@@ -13,16 +13,7 @@ address:
   country: United States
 
 summary: Seminar on cosmic-ray science.
-abstract: In 1912, the discovery of cosmic rays marked a significant breakthrough in
-the field of astrophysics. It not only uncovered a previously unknown
-universe but also opened the doors to a new era of scientific discoveries.
-The study of cosmic rays has led to the development of one of the most
-detailed and accurate models of the subatomic-scale world and has
-helped us better understand the properties of the universe. Today, cosmic
-rays continue to be an important area of study, with applications in diverse
-fields such as medical imaging, space exploration, and even art
-conservation. I will delve into the fascinating world of cosmic rays and
-explore their relevance in various non-scientific contexts.
+abstract: In 1912, the discovery of cosmic rays marked a significant breakthrough in the field of astrophysics. It not only uncovered a previously unknown universe but also opened the doors to a new era of scientific discoveries. The study of cosmic rays has led to the development of one of the most detailed and accurate models of the subatomic-scale world and has helped us better understand the properties of the universe. Today, cosmic rays continue to be an important area of study, with applications in diverse fields such as medical imaging, space exploration, and even art conservation. I will delve into the fascinating world of cosmic rays and explore their relevance in various non-scientific contexts.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
