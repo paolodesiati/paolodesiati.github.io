@@ -7,19 +7,6 @@ design:
   # Section spacing
   spacing: '5rem'
 
----
-
-## Summary
-### Science Projects
-- High Altitude Water Cherenkov (HAWC) Gamma-Ray Observatory
-- IceCube Neutrino Observatory
-- Southern Wide-field Gamma-ray Observatory (SWGO)
-## Analysis Projects
-- Cosmic-ray anisotropy
-- Sun & Moon cosmic-ray shadow
-## Technology Projects
-- CREW-HaT active magnetic shielding
-
 # Page sections
 sections:
   - block: collection
