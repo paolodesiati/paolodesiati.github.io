@@ -1,5 +1,5 @@
 ---
-title: US Antarctic Science Meeting
+title: The Anisotropy of Galactic Cosmic Ray and their Interaction in the Dynamic Antarctic Atmosphere
 
 event: US Antarctic Science Meeting
 event_url: [https://example.org](https://usscar.org/2023-us-antarctic-science-meeting)
