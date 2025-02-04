@@ -77,7 +77,7 @@ work:
       - PI of cosmic-ray analyses with IceCube at UW–Madison
       - PI of cosmic-ray analyses in the US with HAWC at UW–Madison
       - Member of the cosmic-ray science task force in the SWGO collaboration
-      - Organizer of the [SuGAR 2024](https://events.icecube.wisc.edu/event/183/) Symposium Searching for the Sources of Galactic Cosmic Rays
+      - Organizer of the [SuGAR 2024](https://events.icecube.wisc.edu/event/183/) - Symposium Searching for the Sources of Galactic Cosmic Rays
   - position: Senior Scientist
     company_name: University of Wisconsin - Madison
     company_url: ''
@@ -98,7 +98,7 @@ work:
       Responsibilities include:
       - Cosmic-ray science analyses with IceCube
       - Coordination between M&O and science working groups in IceCube
-      - Organizer of the Cosmic Ray Anisotropy ([CRA](https://events.icecube.wisc.edu/event/165)) Workshop series.
+      - Organizer of the Cosmic Ray Anisotropy ([CRA](https://paolodesiati.github.io/workshops/)) Workshop series.
   - position: Associate Researcher
     company_name: University of Wisconsin - Madison
     company_url: ''
