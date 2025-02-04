@@ -61,10 +61,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+analysis:
 # - internal-project
-- hawc
-- icecube
+- anisotropy
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
