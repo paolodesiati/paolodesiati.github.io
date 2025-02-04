@@ -74,6 +74,16 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: talks
+    content:
+      title: Featured Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
     content:
       title: Recent Publications
       text: ""
@@ -83,17 +93,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      columns: 2
-  - block: collection
-    id: talks
-    content:
-      title: Recent Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 3
   # - block: collection
   #  id: news
   #  content:
