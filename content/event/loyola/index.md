@@ -1,7 +1,7 @@
 ---
-title: Student Colloquium - Loyola University Chicago
+title: Cosmic Rays, From particle physics laboratory to new applications
 
-event: Student Colloquium
+event: Student Colloquium - Loyola University Chicago
 event_url: https://www.luc.edu/physics/
 
 location: Loyola University Chicago
