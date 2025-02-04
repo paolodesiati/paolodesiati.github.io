@@ -95,6 +95,10 @@ work:
     date_start: 2010-01-01
     date_end: 2013-01-01
     summary: |
+      Responsibilities include:
+      - Cosmic-ray science analyses with IceCube
+      - Coordination between M&O and science working groups in IceCube
+      - Organizer of the Cosmic Ray Anisotropy ([CRA](https://events.icecube.wisc.edu/event/165)) Workshop series.
   - position: Associate Researcher
     company_name: University of Wisconsin - Madison
     company_url: ''
