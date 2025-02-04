@@ -11,11 +11,22 @@ design:
 sections:
   - block: collection
     content:
-      title: Projects
-      text: These are the science projects aI work on.
+      title: Science projects
+      text: These are the science projects I work on.
       filters:
         folders:
           - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+  - block: collection
+    content:
+      title: Analysis projects
+      text: These are the analysis projects I work on.
+      filters:
+        folders:
+          - analysis
     design:
       view: article-grid
       fill_image: false
