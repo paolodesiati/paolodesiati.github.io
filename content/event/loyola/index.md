@@ -1,7 +1,7 @@
 ---
-title: Student Colloquium
+title: Student Colloquium - Loyola University Chicago
 
-event: Student Colloquium - Loyola University Chicago
+event: Student Colloquium
 event_url: https://www.luc.edu/physics/
 
 location: Loyola University Chicago
