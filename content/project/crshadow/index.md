@@ -1,7 +1,7 @@
 ---
 title: Sun & Moon cosmic-ray shadow
-date: 2025-02-01
-external_link: https://paolodesiati.github.io/analysis/crshadow
+date: 2024-12-01
+external_link: https://paolodesiati.github.io/project/crshadow
 tags:
   - analysis
   - solar corona
