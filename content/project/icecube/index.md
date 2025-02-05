@@ -1,6 +1,6 @@
 ---
 title: IceCube
-date: 2011-01-01
+date: 2025-02-01
 external_link: https://icecube.wisc.edu/
 tags:
   - experiment
