@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Science projects
-      text: These are the science projects I work on.
+      title: My Projects
+      text: These are the projects I am working on.
       filters:
         folders:
           - project
@@ -20,26 +20,4 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
-  - block: collection
-    content:
-      title: Analysis projects
-      text: These are the analysis projects I work on.
-      filters:
-        folders:
-          - analysis
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 2
-  - block: collection
-    content:
-      title: Technology projects
-      text: Here are the technology projects I work on.
-      filters:
-        folders:
-          - technology
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 1
 ---
