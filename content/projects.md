@@ -19,6 +19,6 @@ sections:
     design:
       # view: article-grid
       view: compact
-      fill_image: false
+      fill_image: true
       columns: 4
 ---
