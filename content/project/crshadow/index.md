@@ -3,6 +3,7 @@ title: Sun & Moon cosmic-ray shadow
 date: 2025-02-01
 external_link: https://paolodesiati.github.io/analysis/crshadow
 tags:
+  - analysis
   - solar corona
   - heliophysics
   - cosmic rays
