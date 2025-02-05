@@ -24,9 +24,9 @@ abstract: Recent experimental results on the arrival direction of high-energy co
 summary: High-energy cosmic ray anisotropy is influenced by magnetic mirroring. Using finite-time Lyapunov exponents, we analyze chaos, escape times, and anisotropy variability.
 
 tags:
-- Cosmic-ray
-- Particle propagation
-- Turbulent magnetic field
+- particle propagation
+- cosmic-ray
+- turbulent magnetic field
 - magnetic mirror
 
 featured: true
