@@ -19,6 +19,5 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      count: 6
       columns: 4
 ---
