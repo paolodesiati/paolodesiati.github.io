@@ -3,6 +3,7 @@ title: CRA 2019 - Gran Sasso Science Institute (Italy)
 date: 2019-10-07
 external_link: https://indico.gssi.it/event/45/
 tags:
+  - workshop
   - cosmic rays
   - anisotropy
 ---
