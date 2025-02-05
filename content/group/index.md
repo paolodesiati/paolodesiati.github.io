@@ -47,7 +47,7 @@ tags:
 - **2021:**
   - M. Marrero, Analysis of TeV particle trajectories in the heliosphere.
 - **2020:**
-  - H. Woodward, Cosmic-Ray anisotropy with IceCube ([research journal](https://arxiv.org/abs/2412.05046)).
+  - H. Woodward, Cosmic-Ray anisotropy with IceCube ([research paper](https://arxiv.org/abs/2412.05046)).
   - J.E. Profitt, Particle trajectories in magnetic fields & space radiation.
 - **2019:**
   - A. Toivonen, Analysis of TeV particle trajectories in the heliosphere.
