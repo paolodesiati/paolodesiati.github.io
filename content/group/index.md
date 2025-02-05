@@ -37,17 +37,25 @@ tags:
   - Combined analysis with IceTop and KASCADE archival data in the PeV energy range.
 
 ### REU students' projects
-- **2024:** S. Fowler - Orbital Compton-Getting effect with HAWC data.
-- **2023:** T. Eysselinck - Orbital Compton-Getting effect with IceCube data.
-- **2022:** B. Pettie - Cosmic-ray time variations with IceCube data.
-            B. Derieg - Geant4 calculations of radiation dose absorption in space environments.
-- **2021:** M. Marrero - Analysis of TeV particle trajectories in the heliosphere.
-- **2020:** H. Woodward - Cosmic-Ray anisotropy with IceCube (paper).
-            J.E. Profitt - Particle trajectories in magnetic fields & space radiation.
-- **2019:** A. Toivonen - Analysis of TeV particle trajectories in the heliosphere.
-- **2014:** D. Colby - Particle trajectories in molecular cloud magnetic field model.
-            R. Farber - Particle trajectories in MHD compressive turbulence (paper).
-- **2013:** H. Corbet - IceCube cosmic-ray anisotropy in time domain with Lomb-Scargle analysis (Senior thesis).
+- **2024:**
+  - S. Fowler, Orbital Compton-Getting effect with HAWC data.
+- **2023:**
+  - T. Eysselinck, Orbital Compton-Getting effect with IceCube data.
+- **2022:**
+  - B. Pettie, Cosmic-ray time variations with IceCube data.
+  - B. Derieg, Geant4 calculations of radiation dose absorption in space environments.
+- **2021:**
+  - M. Marrero, Analysis of TeV particle trajectories in the heliosphere.
+- **2020:**
+  - H. Woodward, Cosmic-Ray anisotropy with IceCube (paper).
+  - J.E. Profitt, Particle trajectories in magnetic fields & space radiation.
+- **2019:**
+  - A. Toivonen, Analysis of TeV particle trajectories in the heliosphere.
+- **2014:**
+  - D. Colby, Particle trajectories in molecular cloud magnetic field model.
+  - R. Farber, Particle trajectories in MHD compressive turbulence (paper).
+- **2013:**
+  - H. Corbet, IceCube cosmic-ray anisotropy in time domain with Lomb-Scargle analysis (Senior thesis).
 
 
 <!--more-->
