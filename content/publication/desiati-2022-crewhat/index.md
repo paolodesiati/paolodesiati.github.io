@@ -35,7 +35,7 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2209.13624
 - name: URL
-  url: https://arxiv.org/abs/2209.13624
+  url: https://hdl.handle.net/2346/89618
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
@@ -66,14 +66,5 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-
-
-
-
-
   
 ---
