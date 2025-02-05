@@ -453,7 +453,7 @@ publication_types:
 - Journal Article
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "accepted for publication by Astrophysical Journal"
 publication_short: ""
 
 abstract: We analyzed the 7.92×1011 cosmic-ray-induced muon events collected by the IceCube Neutrino Observatory from May 13, 2011, when the fully constructed experiment started to take data, to May 12, 2023. This dataset provides an up-to-date cosmic-ray arrival direction distribution in the Southern Hemisphere with unprecedented statistical accuracy covering more than a full period length of a solar cycle. Improvements in Monte Carlo event simulation and better handling of year-to-year differences in data processing significantly reduce systematic uncertainties below the level of statistical fluctuations compared to the previously published results. We confirm the observation of a change in the angular structure of the cosmic-ray anisotropy between 10 TeV and 1 PeV, more specifically in the 100-300 TeV energy range.
