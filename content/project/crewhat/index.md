@@ -1,6 +1,6 @@
 ---
 title: CREW-HaT active magnetic shielding
-date: 2022-01-01
+date: 2025-02-01
 external_link: https://paolodesiati.github.io/project/crewhat
 tags:
   - technology
