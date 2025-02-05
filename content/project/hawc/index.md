@@ -1,6 +1,6 @@
 ---
 title: HAWC
-date: 2025-02-01
+date: 2023-01-01
 external_link: https://www.hawc-observatory.org
 tags:
   - experiment
