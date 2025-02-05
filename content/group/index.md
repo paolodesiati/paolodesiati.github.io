@@ -47,15 +47,15 @@ tags:
 - **2021:**
   - M. Marrero, Analysis of TeV particle trajectories in the heliosphere.
 - **2020:**
-  - H. Woodward, Cosmic-Ray anisotropy with IceCube (paper).
+  - H. Woodward, Cosmic-Ray anisotropy with IceCube ([research journal](https://arxiv.org/abs/2412.05046)).
   - J.E. Profitt, Particle trajectories in magnetic fields & space radiation.
 - **2019:**
   - A. Toivonen, Analysis of TeV particle trajectories in the heliosphere.
 - **2014:**
   - D. Colby, Particle trajectories in molecular cloud magnetic field model.
-  - R. Farber, Particle trajectories in MHD compressive turbulence (paper).
+  - R. Farber, Particle trajectories in MHD compressive turbulence ([research paper](https://doi.org/10.3847/0004-637X/830/1/19)).
 - **2013:**
-  - H. Corbet, IceCube cosmic-ray anisotropy in time domain with Lomb-Scargle analysis (Senior thesis).
+  - H. Corbet, IceCube cosmic-ray anisotropy in the time domain with Lomb-Scargle analysis (Senior thesis).
 
 
 <!--more-->
