@@ -5,3 +5,7 @@
 .container {
     max-width: 100%;
 }
+
+.paragraph-text {
+  text-align: justify;
+}
