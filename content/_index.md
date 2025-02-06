@@ -31,6 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    css_class: "my-small-text"
     content:
       title: 'My Research'
       subtitle: ''
