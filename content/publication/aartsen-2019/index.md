@@ -1,0 +1,356 @@
+---
+title: Detection of the Temporal Variation of the Sun's Cosmic Ray Shadow with the
+  IceCube Detector
+authors:
+- M. G. Aartsen
+- M. Ackermann
+- J. Adams
+- J. A. Aguilar
+- M. Ahlers
+- M. Ahrens
+- D. Altmann
+- K. Andeen
+- T. Anderson
+- I. Ansseau
+- G. Anton
+- C. Argüelles
+- J. Auffenberg
+- S. Axani
+- P. Backes
+- H. Bagherpour
+- X. Bai
+- A. Barbano
+- J. P. Barron
+- S. W. Barwick
+- V. Baum
+- R. Bay
+- J. J. Beatty
+- J. Becker Tjus
+- K.-H. Becker
+- S. BenZvi
+- D. Berley
+- E. Bernardini
+- D. Z. Besson
+- G. Binder
+- D. Bindig
+- E. Blaufuss
+- S. Blot
+- C. Bohm
+- M. Börner
+- F. Bos
+- S. Böser
+- O. Botner
+- E. Bourbeau
+- J. Bourbeau
+- F. Bradascio
+- J. Braun
+- H.-P. Bretz
+- S. Bron
+- J. Brostean-Kaiser
+- A. Burgman
+- R. S. Busse
+- T. Carver
+- C. Chen
+- E. Cheung
+- D. Chirkin
+- K. Clark
+- L. Classen
+- G. H. Collin
+- J. M. Conrad
+- P. Coppin
+- P. Correa
+- D. F. Cowen
+- R. Cross
+- P. Dave
+- M. Day
+- J. P. A. M. de André
+- C. De Clercq
+- J. J. DeLaunay
+- H. Dembinski
+- K. Deoskar
+- S. De Ridder
+- P. Desiati
+- K. D. de Vries
+- G. de Wasseige
+- M. de With
+- T. DeYoung
+- J. C. Díaz-Vélez
+- H. Dujmovic
+- M. Dunkman
+- E. Dvorak
+- B. Eberhardt
+- T. Ehrhardt
+- B. Eichmann
+- P. Eller
+- P. A. Evenson
+- S. Fahey
+- A. R. Fazely
+- J. Felde
+- K. Filimonov
+- C. Finley
+- A. Franckowiak
+- E. Friedman
+- A. Fritz
+- T. K. Gaisser
+- J. Gallagher
+- E. Ganster
+- S. Garrappa
+- L. Gerhardt
+- K. Ghorbani
+- W. Giang
+- T. Glauch
+- T. Glüsenkamp
+- A. Goldschmidt
+- J. G. Gonzalez
+- D. Grant
+- Z. Griffith
+- C. Haack
+- A. Hallgren
+- L. Halve
+- F. Halzen
+- K. Hanson
+- D. Hebecker
+- D. Heereman
+- K. Helbing
+- R. Hellauer
+- S. Hickford
+- J. Hignight
+- G. C. Hill
+- K. D. Hoffman
+- R. Hoffmann
+- T. Hoinka
+- B. Hokanson-Fasig
+- K. Hoshina
+- F. Huang
+- M. Huber
+- K. Hultqvist
+- M. Hünnefeld
+- R. Hussain
+- S. In
+- N. Iovine
+- A. Ishihara
+- E. Jacobi
+- G. S. Japaridze
+- M. Jeong
+- K. Jero
+- B. J. P. Jones
+- P. Kalaczynski
+- W. Kang
+- A. Kappes
+- D. Kappesser
+- T. Karg
+- A. Karle
+- U. Katz
+- M. Kauer
+- A. Keivani
+- J. L. Kelley
+- A. Kheirandish
+- J. Kim
+- T. Kintscher
+- J. Kiryluk
+- T. Kittler
+- S. R. Klein
+- R. Koirala
+- H. Kolanoski
+- L. Köpke
+- C. Kopper
+- S. Kopper
+- D. J. Koskinen
+- M. Kowalski
+- K. Krings
+- M. Kroll
+- G. Krückl
+- S. Kunwar
+- N. Kurahashi
+- A. Kyriacou
+- M. Labare
+- J. L. Lanfranchi
+- M. J. Larson
+- F. Lauber
+- K. Leonard
+- M. Leuermann
+- Q. R. Liu
+- E. Lohfink
+- C. J. Lozano Mariscal
+- L. Lu
+- J. Lünemann
+- W. Luszczak
+- J. Madsen
+- G. Maggi
+- K. B. M. Mahn
+- Y. Makino
+- S. Mancina
+- I. C. Mariş
+- R. Maruyama
+- K. Mase
+- R. Maunu
+- K. Meagher
+- M. Medici
+- M. Meier
+- T. Menne
+- G. Merino
+- T. Meures
+- S. Miarecki
+- J. Micallef
+- G. Momenté
+- T. Montaruli
+- R. W. Moore
+- M. Moulai
+- R. Nagai
+- R. Nahnhauer
+- P. Nakarmi
+- U. Naumann
+- G. Neer
+- H. Niederhausen
+- S. C. Nowicki
+- D. R. Nygren
+- A. Obertacke Pollmann
+- A. Olivas
+- A. O’Murchadha
+- E. O’Sullivan
+- T. Palczewski
+- H. Pandya
+- D. V. Pankova
+- P. Peiffer
+- J. A. Pepper
+- C. Pérez de los Heros
+- D. Pieloth
+- E. Pinat
+- A. Pizzuto
+- M. Plum
+- P. B. Price
+- G. T. Przybylski
+- C. Raab
+- M. Rameez
+- L. Rauch
+- K. Rawlins
+- I. C. Rea
+- R. Reimann
+- B. Relethford
+- G. Renzi
+- E. Resconi
+- W. Rhode
+- M. Richman
+- S. Robertson
+- M. Rongen
+- C. Rott
+- T. Ruhe
+- D. Ryckbosch
+- D. Rysewyk
+- I. Safa
+- S. E. Sanchez Herrera
+- A. Sandrock
+- J. Sandroos
+- M. Santander
+- S. Sarkar
+- S. Sarkar
+- K. Satalecka
+- M. Schaufel
+- P. Schlunder
+- T. Schmidt
+- A. Schneider
+- J. Schneider
+- S. Schöneberg
+- L. Schumacher
+- S. Sclafani
+- D. Seckel
+- S. Seunarine
+- J. Soedingrekso
+- D. Soldin
+- M. Song
+- G. M. Spiczak
+- C. Spiering
+- J. Stachurska
+- M. Stamatikos
+- T. Stanev
+- A. Stasik
+- R. Stein
+- J. Stettner
+- A. Steuer
+- T. Stezelberger
+- R. G. Stokstad
+- A. Stößl
+- N. L. Strotjohann
+- T. Stuttard
+- G. W. Sullivan
+- M. Sutherland
+- I. Taboada
+- F. Tenholt
+- S. Ter-Antonyan
+- A. Terliuk
+- S. Tilav
+- P. A. Toale
+- M. N. Tobin
+- C. Tönnis
+- S. Toscano
+- D. Tosi
+- M. Tselengidou
+- C. F. Tung
+- A. Turcati
+- R. Turcotte
+- C. F. Turley
+- B. Ty
+- E. Unger
+- M. A. Unland Elorrieta
+- M. Usner
+- J. Vandenbroucke
+- W. Van Driessche
+- D. van Eijk
+- N. van Eijndhoven
+- S. Vanheule
+- J. van Santen
+- M. Vraeghe
+- C. Walck
+- A. Wallace
+- M. Wallraff
+- F. D. Wandler
+- N. Wandkowsky
+- T. B. Watson
+- C. Weaver
+- M. J. Weiss
+- C. Wendt
+- J. Werthebach
+- S. Westerhoff
+- B. J. Whelan
+- N. Whitehorn
+- K. Wiebe
+- C. H. Wiebusch
+- L. Wille
+- D. R. Williams
+- L. Wills
+- M. Wolf
+- J. Wood
+- T. R. Wood
+- E. Woolsey
+- K. Woschnagg
+- G. Wrede
+- D. L. Xu
+- X. W. Xu
+- Y. Xu
+- J. P. Yanez
+- G. Yodh
+- S. Yoshida
+- T. Yuan
+- IceCube Collaboration
+date: '2019-02-01'
+publishDate: '2025-02-06T20:14:23.735802Z'
+publication_types:
+- article-journal
+publication: '*The Astrophysical Journal*'
+doi: 10.3847/1538-4357/aaffd1
+abstract: We report on the observation of a deficit in the cosmic ray flux from the
+  directions of the Moon and Sun with five years of data taken by the IceCube Neutrino
+  Observatory. Between 2010 May and 2011 May the IceCube detector operated with 79
+  strings deployed in the glacial ice at the South Pole, and with 86 strings between
+  2011 May and 2015 May. A binned analysis is used to measure the relative deficit
+  and significance of the cosmic ray shadows. Both the cosmic ray Moon and Sun shadows
+  are detected with high statistical significance (&gt;10σ) for each year. The results
+  for the Moon shadow are consistent with previous analyses and verify the stability
+  of the IceCube detector over time. This work represents the first observation of
+  the Sun shadow with the IceCube detector. We show that the cosmic ray shadow of
+  the Sun varies with time. These results make it possible to study cosmic ray transport
+  near the Sun with future data from IceCube.
+links:
+- name: URL
+  url: https://dx.doi.org/10.3847/1538-4357/aaffd1
+---
