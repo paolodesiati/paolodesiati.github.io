@@ -1,9 +1,14 @@
 .my-small-text {
-        font-size: 12px;
+        font-size: 8px;
 }
 
 .container {
     max-width: 100%;
+}
+
+.custom-text {
+  margin-left: 50px;  /* Adjust as needed */
+  margin-right: 50px;
 }
 
 .paragraph-text {
