@@ -47,7 +47,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  # caption: 'Image credit: '
+  caption: 'Image credit: Paolo Desiati, Vanessa López-Barquero'
   focal_point: ""
   preview_only: false
 
