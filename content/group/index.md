@@ -55,7 +55,7 @@ tags:
   - D. Colby, Particle trajectories in molecular cloud magnetic field model.
   - R. Farber, Particle trajectories in MHD compressive turbulence ([research paper](https://doi.org/10.3847/0004-637X/830/1/19)).
 - **2013:**
-  - H. Corbet, IceCube cosmic-ray anisotropy in the time domain with Lomb-Scargle analysis (Senior thesis).
+  - H. Corbet, IceCube cosmic-ray anisotropy in the time domain with Lomb-Scargle analysis (Guilford College [Senior thesis](corbett/Corbett_draft_APR9b.pdf) 2014).
 
 
 <!--more-->
