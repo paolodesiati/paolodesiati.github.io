@@ -17,10 +17,4 @@ Cosmic rays are charged particles that achieve energies far beyond what we can c
 
 HAWC is located on the flanks of the Sierra Negra volcano near Puebla, Mexico, at an altitude of 4100 meters (13,500 feet). The detector has an instantaneous field of view covering 15% of the sky, and during each 24 hours, HAWC observes two-thirds of the sky. Using the HAWC Observatory, we are performing a high-sensitivity synoptic survey of the gamma rays from the Northern Hemisphere.
 
-design:
-  css_class: "my-small-text"
-  css_class: "custom-text"
-  css_class: "paragraph-text"
-
-
 <!--more-->
