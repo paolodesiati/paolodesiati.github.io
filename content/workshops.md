@@ -31,5 +31,8 @@ sections:
     design:
       view: article-grid
       fill_image: false
+      css_class: "my-small-text"
+      css_class: "custom-text"
+      css_class: "paragraph-text"
       columns: 3
 ---
