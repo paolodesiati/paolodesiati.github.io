@@ -16,16 +16,15 @@ IceCube also analyzes the Compton-Getting effect for calibration and cosmic-ray 
 
 This is a list of cosmic-ray anisotropy published by the team.
 
-|---------------------|------------------------------|-------------------|
-| citation            | DOI                          | arXiv             |
-|---------------------|------------------------------|-------------------|
-| ApJ (2010) 718 L194 | 10.1088/2041-8205/718/2/L194 | ArXiv: 1005.2960  |
-| ApJ (2011) 740 16   | 10.1088/0004-637X/740/1/16   | ArXiv: 1105.2326  |
-| ApJ (2012) 746 33   | 10.1088/0004-637X/746/1/33   | ArXiv: 1109.1017  |
-| ApJ (2013) 765 55   | 10.1088/0004-637X/765/1/55   | ArXiv: 1210.5278  |
-| ApJ (2016) 826 220  | 10.3847/0004-637X/826/2/220  | ArXiv: 1603.01227 |
-| ApJ (2013) 765 55   | 10.3847/1538-4357/aaf5cc     | ArXiv: 1812.05682 |
-| ApJ (2025)          |                              | ArXiv: 2412.05046 |
-|---------------------|------------------------------|-------------------|
+| citation            | Title                                                                                                               | DOI                          | arXiv      |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------|------------|
+| ApJ (2010) 718 L194 | Measurement of the Anisotropy of Cosmic Ray Arrival Directions with IceCube                                                             | 10.1088/2041-8205/718/2/L194 | 1005.2960  |
+| ApJ (2011) 740 16   | Observation of Anisotropy in the Arrival Directions of Galactic Cosmic Rays at Multiple Angular Scales with IceCube                     | 10.1088/0004-637X/740/1/16   | 1105.2326  |
+| ApJ (2012) 746 33   | Observation of an Anisotropy in the Galactic Cosmic Ray arrival direction at 400 TeV with IceCube                                       | 10.1088/0004-637X/746/1/33   | 1109.1017  |
+| ApJ (2013) 765 55   | Observation of Cosmic Ray Anisotropy with the IceTop Air Shower Array                                                                   | 10.1088/0004-637X/765/1/55   | 1210.5278  |
+| ApJ (2016) 826 220  | Anisotropy in Cosmic-Ray Arrival Directions in the Southern Hemisphere with Six Years of Data from the IceCube Detector                 | 10.3847/0004-637X/826/2/220  | 1603.01227 |
+| ApJ (2013) 765 55   | All-Sky Measurement of the Anisotropy of Cosmic Rays at 10 TeV and Mapping of the Local Interstellar Magnetic Field                     | 10.3847/1538-4357/aaf5cc     | 1812.05682 |
+| ApJ (2025)          | Observation of Cosmic-Ray Anisotropy in the Southern Hemisphere with Twelve Years of Data Collected by the IceCube Neutrino Observatory |                              | 2412.05046 |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------|------------|
 
 <!--more-->
