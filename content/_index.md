@@ -62,7 +62,7 @@ sections:
         rays and the unfolding of the interstellar diffusion properties.
     design:
       css_class: "my-small-text"
-      css_class: "max-width"
+      css_class: "custom-text"
       css_class: "paragraph-text"
       columns: '1'
   - block: collection
