@@ -38,17 +38,17 @@ tags:
 
 ### REU students' projects
 - **2024:**
-  - S. Fowler, Orbital Compton-Getting effect with HAWC data.
+  - S. Fowler, Orbital Compton-Getting effect with HAWC data (analysis in progress).
 - **2023:**
-  - T. Eysselinck, Orbital Compton-Getting effect with IceCube data.
+  - T. Eysselinck, Orbital Compton-Getting effect with IceCube data (analysis in progress).
 - **2022:**
   - B. Pettie, Cosmic-ray time variations with IceCube data.
-  - B. Derieg, Geant4 calculations of radiation dose absorption in space environments.
+  - B. Derieg, Geant4 calculations of radiation dose absorption in space environments (related to the [CRE-HaT](https://paolodesiati.github.io/project/crewhat/) project).
 - **2021:**
   - M. Marrero, Analysis of TeV particle trajectories in the heliosphere.
 - **2020:**
   - H. Woodward, Cosmic-Ray anisotropy with IceCube ([research paper](https://arxiv.org/abs/2412.05046)).
-  - J.E. Profitt, Particle trajectories in magnetic fields & space radiation.
+  - J.E. Profitt, Particle trajectories in magnetic fields & space radiation (related to the [CRE-HaT](https://paolodesiati.github.io/project/crewhat/) project).
 - **2019:**
   - A. Toivonen, Analysis of TeV particle trajectories in the heliosphere.
 - **2014:**
@@ -57,5 +57,14 @@ tags:
 - **2013:**
   - H. Corbet, IceCube cosmic-ray anisotropy in the time domain with Lomb-Scargle analysis (Guilford College [Senior thesis](corbett/Corbett_draft_APR9b.pdf) 2014).
 
+### Mechanical Engineering students' projects
+
+#### InterEgr 170 (Fall 2020)
+
+#### EMA 569 (Spring 2021)
+
+#### EMA 469 (Fall 2021)
+
+#### ME 352 (Fall 2023)
 
 <!--more-->
