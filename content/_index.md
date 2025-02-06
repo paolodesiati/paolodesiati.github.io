@@ -63,6 +63,7 @@ sections:
     design:
       css_class: "my-small-text"
       css_class: "max-width"
+      css_class: "paragraph-text"
       columns: '1'
   - block: collection
     id: papers
