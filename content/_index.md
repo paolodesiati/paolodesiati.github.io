@@ -31,7 +31,6 @@ sections:
           position: center
           parallax: false
   - block: markdown
-    css_class: "my-small-text"
     content:
       title: 'My Research'
       subtitle: ''
@@ -62,6 +61,7 @@ sections:
         Barquero (University of Maryland) on the heliosphere’s distortion effects on the arrival direction distribution of TeV cosmic 
         rays and the unfolding of the interstellar diffusion properties.
     design:
+      css_class: "my-small-text"
       columns: '1'
   - block: collection
     id: papers
