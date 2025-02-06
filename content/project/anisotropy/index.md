@@ -14,4 +14,6 @@ Recent findings highlight the dipole component’s amplitude and phase as indica
 
 IceCube also analyzes the Compton-Getting effect for calibration and cosmic-ray spectral index measurement. Given individual experiments’ limited sky coverage, full-sky measurements via collaborations with HAWC, GRAPES-3, TALE, and KASCADE aim to provide a comprehensive view of anisotropy. These efforts will improve understanding of cosmic-ray diffusion and heliospheric influence on observed distributions.
 
+{{< table path="publications.csv" header="true" caption="List of cosmic-ray anisotropy publications" >}}
+
 <!--more-->
