@@ -170,6 +170,10 @@ skills:
        description: ''
        percent: 100
        icon: theater
+     - name: Books
+       description: ''
+       percent: 100
+       icon: book
 
 languages:
   - name: Italian
