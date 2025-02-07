@@ -50,7 +50,7 @@ interests:
 
 education:
   - area: PhD Physics
-    institution: Sapienza - Università di Roma (Italy)
+    institution: [Sapienza - Università di Roma](https://www.uniroma1.it/en) (Italy)
     date_start: 1996-09-01
     date_end: 1999-09-01
     summary: |
@@ -59,7 +59,7 @@ education:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
   - area: MSc Physics
-    institution: Università degli Studi di Firenze (Italy)
+    institution: [Università degli Studi di Firenze](https://www.unifi.it/en) (Italy)
     date_start: 1989-09-01
     date_end: 1994-09-01
     summary: |
