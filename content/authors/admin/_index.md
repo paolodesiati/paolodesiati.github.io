@@ -55,7 +55,7 @@ education:
     date_start: 1996-09-01
     date_end: 1999-09-01
     summary: |
-      Neutrino astrophysics with the NESTOR neutrino telescope project in Greece.
+      - Neutrino astrophysics with the NESTOR neutrino telescope project in Greece.
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
