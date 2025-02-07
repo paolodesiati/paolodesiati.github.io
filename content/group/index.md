@@ -42,7 +42,7 @@ tags:
 #### 2023
   - T. Eysselinck, Orbital Compton-Getting effect with IceCube data (analysis in progress).
 #### 2022
-  - B. Pettie, Cosmic-ray time variations with IceCube data.
+  - B. Pettie, Cosmic-ray time variations with IceCube data (analysis in progress).
   - B. Derieg, Geant4 calculations of radiation dose absorption in space environments (related to the [CRE-HaT](https://paolodesiati.github.io/project/crewhat/) project).
 #### 2021
   - M. Marrero, Analysis of TeV particle trajectories in the heliosphere.
