@@ -17,6 +17,7 @@ sections:
         folders:
           - project
       count: 10
+      sort_by: 'Tag'
     design:
       view: article-grid
       fill_image: false
