@@ -1,5 +1,7 @@
 ---
 title: IceCube
+authors:
+- admin
 date: 2025-02-01
 external_link: https://icecube.wisc.edu/
 tags:
