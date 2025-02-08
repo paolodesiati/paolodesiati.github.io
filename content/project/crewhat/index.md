@@ -1,8 +1,8 @@
 ---
 title: CREW-HaT active magnetic shielding
 authors:
+- admin
 - Elena D'Onghia
-- Paolo Desiati
 date: 2025-02-01
 external_link: https://paolodesiati.github.io/project/crewhat
 tags:
