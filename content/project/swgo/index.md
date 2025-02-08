@@ -1,5 +1,7 @@
 ---
 title: SWGO
+authors:
+- admin
 date: 2025-02-01
 external_link: https://www.swgo.org/
 tags:
