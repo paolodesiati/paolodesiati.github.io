@@ -29,8 +29,8 @@ abstract: We performed numerical calculations to test the suggestion by Desiati 
 summary: Calculating proton trajectories passing through the heliosphere.
 
 tags:
-- Cosmic-ray anisotropy
 - Particle propagation
+- Cosmic-ray anisotropy
 - Heliosphere
 
 featured: true
