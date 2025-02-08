@@ -6,7 +6,7 @@ authors:
 date: 2025-02-01
 external_link: https://paolodesiati.github.io/project/crewhat
 tags:
-  - technology
+  - aerospace
   - active shielding
   - space radiation
   - cosmic rays
