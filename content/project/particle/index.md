@@ -13,7 +13,7 @@ tags:
 ### Introduction
 
 The propagation of relativistic charged particles in the heliosphere and interstellar magnetic fields is calculated using the
-_ptracing_ code. This code was originally developed for the studies described in (Desiati & Zweibel). It includes several
+_ptracing_ code. This code was originally developed for the studies described in [Desiati & Zweibel (2014)](https://iopscience.iop.org/article/10.1088/0004-637X/791/1/51). It includes several
 analytical magnetic and electric field configurations and interfaces to different heliospheric numerical models. Additionally,
 it supports multithreading, allowing it to take full advantage of computers with a large number of CPU cores and shared memory. 
 
