@@ -27,7 +27,7 @@ enableGitInfo: false
 summaryLength: 30
 pagination:
   pagerSize: 10
-  paginate: 6
+  perPage: 6
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
