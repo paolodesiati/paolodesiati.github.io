@@ -1,6 +1,7 @@
 ---
 title: Particle Propagation
-author: admin
+authors:
+- admin
 date: 2025-02-07
 external_link: https://paolodesiati.github.io/project/particle
 tags:
