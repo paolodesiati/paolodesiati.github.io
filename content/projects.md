@@ -18,7 +18,7 @@ sections:
           - project
     design:
       view: article-grid
-      count: 0
+      count: 10
       fill_image: false
       columns: 4
 ---
