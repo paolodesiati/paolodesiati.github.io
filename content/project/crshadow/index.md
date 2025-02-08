@@ -1,5 +1,7 @@
 ---
 title: Sun & Moon cosmic-ray shadow
+authors:
+- admin
 date: 2025-02-01
 external_link: https://paolodesiati.github.io/project/crshadow
 tags:
