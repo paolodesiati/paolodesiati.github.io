@@ -28,8 +28,8 @@ abstract: Cosmic-ray anisotropy has been observed in a wide energy range and at 
 summary: Calculating proton trajectories in low-β compressible magnetohydrodynamic turbulence to study how the cosmic rays’ arrival direction distribution is perturbed when they stream along the local turbulent magnetic field.
 
 tags:
-- Cosmic-ray anisotropy
 - Particle propagation
+- Cosmic-ray anisotropy
 - Turbulent magnetic field
 
 featured: true
