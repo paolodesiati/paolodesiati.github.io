@@ -26,7 +26,7 @@ summary: CREW-HaT is a lightweight, deployable magnetic shielding system using a
 tags:
 - active shielding
 - space radiation
-- technology
+- aerospace
 - cosmic ray
 
 featured: true
