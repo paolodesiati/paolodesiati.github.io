@@ -28,6 +28,7 @@ sections:
       filters:
         folders:
           - cra
+      count: 10
     design:
       view: article-grid
       fill_image: false
