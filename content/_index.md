@@ -73,9 +73,10 @@ sections:
         folders:
           - publication
         featured_only: true
+      count: 10
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
       title: Recent Publications
