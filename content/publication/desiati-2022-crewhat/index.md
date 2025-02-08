@@ -24,9 +24,9 @@ abstract: At the dawn of a new space exploration age, aiming to send humans back
 summary: CREW-HaT is a lightweight, deployable magnetic shielding system using a Halbach Torus and high-temperature superconductors to protect astronauts from space radiation.
 
 tags:
+- aerospace
 - active shielding
 - space radiation
-- aerospace
 - cosmic ray
 
 featured: true
