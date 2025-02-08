@@ -1,5 +1,7 @@
 ---
 title: Cosmic-ray Anisotropy
+authors:
+- admin
 date: 2025-02-01
 external_link: https://paolodesiati.github.io/project/anisotropy
 tags:
