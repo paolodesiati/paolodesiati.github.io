@@ -17,7 +17,7 @@ sections:
         folders:
           - project
       count: 10
-      sort_by: 'Tag'
+      sort_by: 'Params.tags'
     design:
       view: article-grid
       fill_image: false
