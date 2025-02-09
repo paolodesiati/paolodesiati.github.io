@@ -12,7 +12,8 @@ location: UW Space Place
 #  postcode: '60660'
 #  country: United States
 
-summary:  As NASA prepares for the journey to Mars, one of the greatest challenges is protecting astronauts from harmful cosmic rays and solar radiation. The CREW Hat, an innovative magnetic shielding device, offers a groundbreaking solution by creating a powerful magnetic field to deflect radiation, ensuring the safety of space travelers. This talk explores the science behind the CREW Hat, its potential role in future Mars missions, and how advancements in magnetic technology are paving the way for safe and sustainable exploration of the Red Planet.
+summary:  NASA faces the challenge of protecting astronauts from cosmic rays on Mars missions. The CREW Hat, a magnetic shielding device, generates a field to deflect radiation. This talk examines its science, role in future missions, and how magnetic technology advancements enable safe, sustainable space exploration.
+Abstract:  As NASA prepares for the journey to Mars, one of the greatest challenges is protecting astronauts from harmful cosmic rays and solar radiation. The CREW Hat, an innovative magnetic shielding device, offers a groundbreaking solution by creating a powerful magnetic field to deflect radiation, ensuring the safety of space travelers. This talk explores the science behind the CREW Hat, its potential role in future Mars missions, and how advancements in magnetic technology are paving the way for safe and sustainable exploration of the Red Planet.
 
 
 # Talk start and end times.
