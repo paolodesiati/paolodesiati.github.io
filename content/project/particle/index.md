@@ -2,6 +2,7 @@
 title: Particle Propagation
 authors:
 - admin
+- Juan Carlos Díaz Vélez
 date: 2025-02-07
 external_link: https://paolodesiati.github.io/project/particle
 tags:
