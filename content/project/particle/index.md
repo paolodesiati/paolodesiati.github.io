@@ -36,16 +36,18 @@ affected by the heliosphere and the modified magnetic field near its boundary.
 
 One challenge in calculating trajectories within open boundary systems is that particles propagating from outside the heliosphere have a very low probability of reaching Earth or passing near it. To address this, we plan to generate 100 million anti-proton trajectories, propagating backward from Earth to a distance of 50,000 AU from the Sun.
 
-We will compute the trajectories using the Boris Push stepping method. This algorithm has become a standard for this purpose.
+We compute the trajectories using the Boris Push stepping method. This algorithm has become a standard for this purpose.
 Although the Boris algorithm is not symplectic, it does conserve phase space volume, and its energy error is globally bounded,
 comparable to that of symplectic algorithms. To ensure the accuracy of our results and as part of our
 validation procedure, we will perform additional checks by varying the integration tolerance parameters and comparing the
 outcomes with the explicit fourth-order Runge-Kutta method. Additionally, we will conduct cross-validation with limited
 statistics using third-party tools such as CRPropa.
 
-We will calculate trajectories using heliospheric models provided by our collaborator, Prof. Nikolai Pogorelov, to investigate
+We calculate trajectories using heliospheric models provided by our collaborator, Prof. Nikolai Pogorelov, to investigate
 the systematic effects of model parameters on our data interpretation. According to Liouville's Theorem, we can interpret the
 calculated back-propagated anti-proton trajectories as protons traveling from the ISM to Earth.
+
+A [preliminary study](https://pos.sissa.it/358/1076/) utilized numerically computed particle trajectories from a computational heliospheric model to assess the experimental biases introduced by ground-based experiments and their impact on interpretations. Our intention is to conduct thorough investigations into this experimental dimension of cosmic-ray physics, which will aid in developing the analytical tools needed to explore the origins of cosmic-ray anisotropy and its propagation through the interstellar medium and the heliosphere.
 
 
 <!--more-->
