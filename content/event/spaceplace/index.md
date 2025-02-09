@@ -22,7 +22,7 @@ date_end: '2025-02-11'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-02-11'
+publishDate: '2025-02-08'
 
 authors:
   - admin
