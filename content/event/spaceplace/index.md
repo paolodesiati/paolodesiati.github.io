@@ -4,7 +4,7 @@ title: "Magnetic Shields for Cosmic Journeys: The CREW Hat and the Future of Spa
 event: Presentation at Space Place
 event_url: https://www.astro.wisc.edu/outreach/uw-space-place/
 
-location: UW Space Place
+location: [UW Space Place](https://g.co/kgs/fyMNnH4)
 # address:
 #  street: 1032 W. Sheridan Road
 #  city: Chicago
