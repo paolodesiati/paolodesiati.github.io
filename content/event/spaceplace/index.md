@@ -1,5 +1,5 @@
 ---
-title: Magnetic Shields for Cosmic Journeys: The CREW Hat and the Future of Space Travel
+title: "Magnetic Shields for Cosmic Journeys: The CREW Hat and the Future of Space Travel"
 
 event: Presentation at Space Place
 event_url: https://www.astro.wisc.edu/outreach/uw-space-place/
