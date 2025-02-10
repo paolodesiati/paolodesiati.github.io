@@ -18,8 +18,8 @@ Abstract:  As NASA prepares for the journey to Mars, one of the greatest challen
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-02-11'
-date_end: '2025-02-11'
+date: '2025-02-11T19:00:'
+date_end: '2025-02-11T20:00:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
