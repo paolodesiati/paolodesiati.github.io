@@ -1,5 +1,5 @@
 ---
-title: "Magnetic Shields for Cosmic Journeys: The CREW Hat and the Future of Space Travel"
+title: "Magnetic Shields for Cosmic Journeys: CREW Hat and the Future of Space Travel"
 
 event: Presentation at Space Place
 event_url: https://www.astro.wisc.edu/outreach/uw-space-place/
@@ -18,8 +18,8 @@ Abstract:  As NASA prepares for the journey to Mars, one of the greatest challen
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-02-11T19:00:'
-date_end: '2025-02-11T20:00:00'
+date: '2025-02-11T19:00:00Z'
+date_end: '2025-02-11T20:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
