@@ -34,6 +34,8 @@ The CREW HaT is a deployable device integrated with the spacecraft. It unfolds a
 
 - Recent innovations in high-temperature superconductors (e.g., ReBCO) enable the necessary high currents.
 
+- Our innovation benefited from the support provided to us by the UW-Madison's [Discovery to Product](https://d2p.wisc.edu/2020/08/25/innovator-profile-paolo-desiati-and-elena-donghia/).
+
 ### Potential & Benefits
 
 The CREW-HaT is superior to the existing benchmark active shielding technology previously proposed (MAARSS Soleinoidal Coil system by Westover et al., NIAC 2012). It dramatically reduces the health risk for astronauts because:
