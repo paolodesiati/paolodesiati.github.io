@@ -70,4 +70,4 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/lópez-barquero-2016/).
+This work is driven by the results in my [previous paper](/publication/lopez-barquero-2016/).
