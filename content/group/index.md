@@ -57,7 +57,7 @@ tags:
 #### 2013
   - H. Corbett, IceCube cosmic-ray anisotropy in the time domain with Lomb-Scargle analysis (Guilford College [Senior thesis](corbett/Corbett_draft_APR9b.pdf) 2014).
 
-### Mechanical Engineering students' projects
+### ME students' aerospace projects
 
 #### InterEgr 170 (Fall 2020)
   - Investigating the possibility of designing and building an active shield device capable of diverting energetic charged particles from a region of space. Its naturally occurring magnetic field protects Earth from energetic solar and cosmic ray particle radiation. Electric currents create magnetic fields. By directing such currents through appropriately chosen conductor geometries, it is possible to shape the configuration of the magnetic field. Magnetic fields bend charged particle trajectories through the Lorentz force. An appropriately configured magnetic field can focus particles onto a specific region in phase space or divert them away.
