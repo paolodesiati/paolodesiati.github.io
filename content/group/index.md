@@ -57,6 +57,12 @@ tags:
 #### 2013
   - H. Corbett, IceCube cosmic-ray anisotropy in the time domain with Lomb-Scargle analysis (Guilford College [Senior thesis](corbett/Corbett_draft_APR9b.pdf) 2014).
 
+### CREW HaT aerospace project collaborators
+  - **Elena D'Onghia** Astronomy Department
+  - **Franklin Miller** Mechanical Engineering Department
+  - **John Pfotenhauer** Mechanical Engineering Department
+  - **Bryan Bednarz** Medical Physics Department
+
 ### ME students' aerospace projects
 
 #### InterEgr 170 (Fall 2020)
