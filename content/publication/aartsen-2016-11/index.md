@@ -1,0 +1,314 @@
+---
+title: Searches for Sterile Neutrinos with the IceCube Detector
+authors:
+- M.G. Aartsen
+- K. Abraham
+- M. Ackermann
+- J. Adams
+- J.A. Aguilar
+- M. Ahlers
+- M. Ahrens
+- D. Altmann
+- K. Andeen
+- T. Anderson
+- I. Ansseau
+- G. Anton
+- M. Archinger
+- C. Argüelles
+- T.C. Arlen
+- J. Auffenberg
+- S. Axani
+- X. Bai
+- S.W. Barwick
+- V. Baum
+- R. Bay
+- J.J. Beatty
+- J. Becker Tjus
+- K.-H. Becker
+- S. Benzvi
+- P. Berghaus
+- D. Berley
+- E. Bernardini
+- A. Bernhard
+- D.Z. Besson
+- G. Binder
+- D. Bindig
+- E. Blaufuss
+- S. Blot
+- D.J. Boersma
+- C. Bohm
+- M. Börner
+- F. Bos
+- D. Bose
+- S. Böser
+- O. Botner
+- J. Braun
+- L. Brayeur
+- H.-P. Bretz
+- A. Burgman
+- J. Casey
+- M. Casier
+- E. Cheung
+- D. Chirkin
+- A. Christov
+- K. Clark
+- L. Classen
+- S. Coenders
+- G.H. Collin
+- J.M. Conrad
+- D.F. Cowen
+- A.H. Cruz Silva
+- J. Daughhetee
+- J.C. Davis
+- M. Day
+- J.P.A.M. De André
+- C. De Clercq
+- E. Del Pino Rosendo
+- H. Dembinski
+- S. De Ridder
+- P. Desiati
+- K.D. De Vries
+- G. De Wasseige
+- M. De With
+- T. Deyoung
+- J.C. Díaz-Vélez
+- V. Di Lorenzo
+- H. Dujmovic
+- J.P. Dumm
+- M. Dunkman
+- B. Eberhardt
+- T. Ehrhardt
+- B. Eichmann
+- S. Euler
+- P.A. Evenson
+- S. Fahey
+- A.R. Fazely
+- J. Feintzeig
+- J. Felde
+- K. Filimonov
+- C. Finley
+- S. Flis
+- C.-C. Fösig
+- T. Fuchs
+- T.K. Gaisser
+- R. Gaior
+- J. Gallagher
+- L. Gerhardt
+- K. Ghorbani
+- W. Giang
+- L. Gladstone
+- T. Glüsenkamp
+- A. Goldschmidt
+- G. Golup
+- J.G. Gonzalez
+- D. Góra
+- D. Grant
+- Z. Griffith
+- A. Haj Ismail
+- A. Hallgren
+- F. Halzen
+- E. Hansen
+- K. Hanson
+- D. Hebecker
+- D. Heereman
+- K. Helbing
+- R. Hellauer
+- S. Hickford
+- J. Hignight
+- G.C. Hill
+- K.D. Hoffman
+- R. Hoffmann
+- K. Holzapfel
+- A. Homeier
+- K. Hoshina
+- F. Huang
+- M. Huber
+- W. Huelsnitz
+- K. Hultqvist
+- S. In
+- A. Ishihara
+- E. Jacobi
+- G.S. Japaridze
+- M. Jeong
+- K. Jero
+- B.J.P. Jones
+- M. Jurkovic
+- A. Kappes
+- T. Karg
+- A. Karle
+- U. Katz
+- M. Kauer
+- A. Keivani
+- J.L. Kelley
+- A. Kheirandish
+- M. Kim
+- T. Kintscher
+- J. Kiryluk
+- T. Kittler
+- S.R. Klein
+- G. Kohnen
+- R. Koirala
+- H. Kolanoski
+- L. Köpke
+- C. Kopper
+- S. Kopper
+- D.J. Koskinen
+- M. Kowalski
+- K. Krings
+- M. Kroll
+- G. Krückl
+- C. Krüger
+- J. Kunnen
+- S. Kunwar
+- N. Kurahashi
+- T. Kuwabara
+- M. Labare
+- J.L. Lanfranchi
+- M.J. Larson
+- D. Lennarz
+- M. Lesiak-Bzdak
+- M. Leuermann
+- L. Lu
+- J. Lünemann
+- J. Madsen
+- G. Maggi
+- K.B.M. Mahn
+- S. Mancina
+- M. Mandelartz
+- R. Maruyama
+- K. Mase
+- R. Maunu
+- F. McNally
+- K. Meagher
+- M. Medici
+- M. Meier
+- A. Meli
+- T. Menne
+- G. Merino
+- T. Meures
+- S. Miarecki
+- E. Middell
+- L. Mohrmann
+- T. Montaruli
+- M. Moulai
+- R. Nahnhauer
+- U. Naumann
+- G. Neer
+- H. Niederhausen
+- S.C. Nowicki
+- D.R. Nygren
+- A. Obertacke Pollmann
+- A. Olivas
+- A. Omairat
+- A. O'Murchadha
+- T. Palczewski
+- H. Pandya
+- D.V. Pankova
+- J.A. Pepper
+- C. Pérez De Los Heros
+- C. Pfendner
+- D. Pieloth
+- E. Pinat
+- J. Posselt
+- P.B. Price
+- G.T. Przybylski
+- M. Quinnan
+- C. Raab
+- M. Rameez
+- K. Rawlins
+- M. Relich
+- E. Resconi
+- W. Rhode
+- M. Richman
+- B. Riedel
+- S. Robertson
+- C. Rott
+- T. Ruhe
+- D. Ryckbosch
+- D. Rysewyk
+- L. Sabbatini
+- J. Salvado
+- S.E. Sanchez Herrera
+- A. Sandrock
+- J. Sandroos
+- S. Sarkar
+- K. Satalecka
+- P. Schlunder
+- T. Schmidt
+- S. Schöneberg
+- A. Schönwald
+- D. Seckel
+- S. Seunarine
+- D. Soldin
+- M. Song
+- G.M. Spiczak
+- C. Spiering
+- M. Stamatikos
+- T. Stanev
+- A. Stasik
+- A. Steuer
+- T. Stezelberger
+- R.G. Stokstad
+- A. Stößl
+- R. Ström
+- N.L. Strotjohann
+- G.W. Sullivan
+- M. Sutherland
+- H. Taavola
+- I. Taboada
+- J. Tatar
+- S. Ter-Antonyan
+- A. Terliuk
+- G. Tešić
+- S. Tilav
+- P.A. Toale
+- M.N. Tobin
+- S. Toscano
+- D. Tosi
+- M. Tselengidou
+- A. Turcati
+- E. Unger
+- M. Usner
+- S. Vallecorsa
+- J. Vandenbroucke
+- N. Van Eijndhoven
+- S. Vanheule
+- M. Van Rossem
+- J. Van Santen
+- J. Veenkamp
+- M. Voge
+- M. Vraeghe
+- C. Walck
+- A. Wallace
+- N. Wandkowsky
+- Ch. Weaver
+- C. Wendt
+- S. Westerhoff
+- B.J. Whelan
+- K. Wiebe
+- L. Wille
+- D.R. Williams
+- L. Wills
+- H. Wissing
+- M. Wolf
+- T.R. Wood
+- E. Woolsey
+- K. Woschnagg
+- D.L. Xu
+- X.W. Xu
+- Y. Xu
+- J.P. Yanez
+- G. Yodh
+- S. Yoshida
+- M. Zoll
+date: '2016-01-01'
+publishDate: '2025-02-15T17:30:24.658063Z'
+publication_types:
+- article-journal
+publication: '*Physical Review Letters*'
+doi: 10.1103/PhysRevLett.117.071801
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-84983490279&doi=10.1103%2fPhysRevLett.117.071801&partnerID=40&md5=f1228cb734afd8d64cb5777a093f5008
+---
