@@ -12,7 +12,7 @@ location: Hong Kong (China)
 #  postcode: '60660'
 #  country: United States
 
-summary: Review of Cosmic Ray Anisotropy Observations and their Astrophysics Impact at the 2nd LHAASO Symposium.
+summary: Invited review talk on cosmic-ray anisotropy observations and their astrophysics impact at the 2nd LHAASO Symposium.
 abstract: This presentation will review the cosmic-ray anisotropy observations with ground-based experiments and the theoretical explanation that have been proposed so far. An outlook on open questions and future directions of such research will be discussed, as well.
 
 # Talk start and end times.
