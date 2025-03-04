@@ -2,7 +2,7 @@
 title: Chaotic Behavior of Trapped Cosmic Rays
 authors:
 - Vanessa López-Barquero
-- Paolo Desiati
+- admin
 date: '2025-02-05'
 
 # Schedule page publish date (NOT publication's date).
