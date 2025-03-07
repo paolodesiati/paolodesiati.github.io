@@ -4,7 +4,7 @@ authors:
 - V. López-Barquero
 - R. Farber
 - S. Xu
-- P. Desiati
+- admin
 - A. Lazarian
 date: '2016-01-01'
 
