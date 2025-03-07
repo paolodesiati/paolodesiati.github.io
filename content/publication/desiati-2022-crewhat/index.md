@@ -1,7 +1,7 @@
 ---
 title: 'CREW HaT: A Magnetic Shielding System for Space Habitats'
 authors:
-- Paolo Desiati
+- admin
 - Elena D'Onghia
 date: '2022-01-01'
 
