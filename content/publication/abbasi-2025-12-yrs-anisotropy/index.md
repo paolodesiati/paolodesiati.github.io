@@ -440,7 +440,7 @@ authors:
 - P. Zilberman
 - M. Zimmerman
 - (IceCube Collaboration)
-date: '2025-03-01'
+date: '2025-03-07'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-03-07T16:57:08.337906Z'
