@@ -3,7 +3,7 @@ title: TeV Cosmic-Ray Anisotropy from the Magnetic Field at the Heliospheric Bou
 authors:
 - V. López-Barquero
 - S. Xu
-- P. Desiati
+- admin
 - A. Lazarian
 - N.V. Pogorelov
 - H. Yan
