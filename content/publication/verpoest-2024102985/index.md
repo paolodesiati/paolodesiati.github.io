@@ -3,7 +3,7 @@ title: Atmospheric muons and their variations with temperature
 authors:
 - S. Verpoest
 - D. Soldin
-- P. Desiati
+- admin
 date: '2024-01-01'
 publishDate: '2025-02-07T17:37:36.949810Z'
 publication_types:
