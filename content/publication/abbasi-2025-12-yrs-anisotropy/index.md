@@ -472,7 +472,7 @@ abstract: We analyzed the 7.92 × 1011 cosmic-ray-induced muon events collecte
   to previous findings.
 
 # Summary. An optional shortened abstract.
-summary: Measurement of the cosmic-ray anisotropy with twelve years of IceCube muon data from 2011 to 2023.
+summary: The latest measurement of cosmic-ray anisotropy is based on twelve years of IceCube muon data collected from 2011 to 2023 by teams from UW-Madison, Mercer University, and Loyola University Chicago.
 
 tags:
 - Cosmic-ray anisotropy
