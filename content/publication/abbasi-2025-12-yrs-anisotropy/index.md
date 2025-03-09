@@ -509,4 +509,4 @@ slides: example
 
 ---
 
-This work is driven by the results in my [previous paper](/publication/aartsen-2016-anisotropy/).
+This work is driven by the results in my [previous paper](/publication/aartsen-2016-14/).
