@@ -33,7 +33,7 @@ tags:
   - aerospace
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   # caption: 'Image credit: [**LUC**](https://www.luc.edu/media/lucedu/universityhomepage/2024-random-images/winter-2024/1800x450_3.jpg)'
