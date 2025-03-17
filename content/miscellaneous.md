@@ -17,7 +17,7 @@ sections:
       filters:
         folders:
           - miscellaneous
-      count: 2
+      count: 10
     design:
       view: article-grid
       fill_image: false
