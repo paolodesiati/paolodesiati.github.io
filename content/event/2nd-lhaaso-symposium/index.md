@@ -37,13 +37,13 @@ image:
   # caption: 'Image credit: [**LUC**](https://www.luc.edu/media/lucedu/universityhomepage/2024-random-images/winter-2024/1800x450_3.jpg)'
   focal_point: Right
 
-#links:
+links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-# url_pdf: ''
+url_pdf: 'https://indico.ihep.ac.cn/event/23146/contributions/182257/attachments/88965/115051/Desiati%20-%20CR%20Anisotropy%20-%202nd%20LHAASO%20Symposium.pdf'
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://www.youtube.com/watch?v=opdXNTAx0iI&list=PLnlMdeTKB-eO5DBVXeM4RNNV_yo7S4IDP&index=4&ab_channel=US-SCAR'
 
