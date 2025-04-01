@@ -168,9 +168,13 @@ skills:
        description: ''
        percent: 70
        icon: walking
-     - name: Theater
+     - name: Opera
        description: ''
        percent: 100
+       icon: theater
+     - name: Theater
+       description: ''
+       percent: 60
        icon: theater
      - name: Books
        description: ''
