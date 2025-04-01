@@ -41,7 +41,7 @@ links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
-url: 'https://indico.ihep.ac.cn/event/23146/'
+#    url: 'https://indico.ihep.ac.cn/event/23146/'
 # url_code: 'https://github.com'
 url_pdf: 'https://indico.ihep.ac.cn/event/23146/contributions/182257/attachments/88965/115051/Desiati%20-%20CR%20Anisotropy%20-%202nd%20LHAASO%20Symposium.pdf'
 # url_slides: 'https://slideshare.net'
