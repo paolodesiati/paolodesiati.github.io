@@ -507,6 +507,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
+This work was supported by NSF [2209483](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209483&HistoricalAwards=false) - WoU-MMA: Cosmic-Ray Physics with IceCube (2022-25) - Analysis of cosmic-ray anisotropy with IceCube.
 ---
 
 This work is driven by the results in my [previous paper](/publication/aartsen-2016-14/).
