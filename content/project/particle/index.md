@@ -1,5 +1,5 @@
 ---
-title: Particle Propagation
+title: Particle Propagation in the Heliosphere
 authors:
 - admin
 - Juan Carlos Díaz Vélez
