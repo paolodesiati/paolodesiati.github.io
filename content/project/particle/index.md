@@ -3,7 +3,7 @@ title: Particle Propagation in the Heliosphere
 authors:
 - admin
 - Juan Carlos Díaz Vélez
-date: 2025-02-07
+date: 2025-08-17
 external_link: https://paolodesiati.github.io/project/particle
 tags:
   - particle propagation
