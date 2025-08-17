@@ -53,7 +53,13 @@ A [preliminary study](https://pos.sissa.it/358/1076/) utilized numerically compu
 
 The paper examines how the heliosphere acts as a magnetic lens that reshapes the TeV cosmic-ray anisotropy we observe on Earth, complicating efforts to infer the true interstellar distribution. Because ground-based reconstructions are effectively “blind” to the north–south (m=0) spherical-harmonic terms, the vertical component of the dipole is lost, which can bias estimates of the pitch-angle distribution in the local interstellar medium (LISM). Even so, the paper argues that higher-order multipoles preserve enough spatial information to constrain the large-scale structure and its alignment with the local interstellar magnetic field (LIMF). The premise is that if we correctly model the heliospheric imprint and account for observational limitations, we can still recover the underlying LISM anisotropy.
 
-![Reconstructed Anisotropy Map after Propagation thought the Heliosphere](/uploads/SkyMapHeliosphere.png "Cosmic-Ray at 10 TeV")
+![Reconstructed Anisotropy Map after Propagation through the Heliosphere](/uploads/SkyMapHeliosphere-NoCaption.png
+"The reconstructed map of the 10 TeV combined sample after propagation. The direction of the
+LIMF is indicated by the X and the corresponding magnetic equator (i.e. the plane perpendicular to the
+uniform LIMF passing by the Earth) is shown with a solid curve. The inferred direction obtained by fitting
+a circle to the boundary of large-scale excess and deficit regions (dot-dashed green curve) from the true
+propagated map is indicated with a green star. The equivalent fit (shown as a dashed red curve) for the
+reconstructed map is indicated with red square.")
 
 Using back-propagation through a heliospheric field model across multiple rigidities, we reconstruct Earth-frame sky maps, fit the boundary between excess and deficit to infer the LIMF “magnetic equator,” and estimate the missing north–south dipole component. Remapping the result outside the heliosphere then yields an interstellar dipole whose direction is within about 3° of the true LIMF when that compensation is applied (versus ~14° without it). At ~10 TV rigidity, where particle gyroradii match the LIMF draping scale, the heliospheric effect is strong but does not destroy the overall ordering with the LIMF; the method’s accuracy, however, depends on the chosen heliosphere/LIMF model. The paper highlights the next steps, which include scanning heliotail length, solar-cycle phase, turbulence, and LIMF geometry to quantify model sensitivities.
 
