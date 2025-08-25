@@ -1,0 +1,398 @@
+---
+title: In situ estimation of ice crystal properties at the South Pole using LED calibration
+  data from the IceCube Neutrino Observatory
+authors:
+- Rasha Abbasi
+- Markus Ackermann
+- Jenni Adams
+- Nakul Aggarwal
+- Juanan Aguilar
+- Markus Ahlers
+- Maryon Ahrens
+- Jean-Marco Alameddine
+- Antonio Augusto Alves Junior
+- Najia Moureen Binte Amin
+- Karen Andeen
+- Tyler Anderson
+- Gisela Anton
+- Carlos Argüelles
+- Yosuke Ashida
+- Sofia Athanasiadou
+- Spencer Axani
+- Xinhua Bai
+- Aswathi Balagopal V
+- Moreno Baricevic
+- Steve Barwick
+- Vedant Basu
+- Ryan Bay
+- James Beatty
+- Karl Heinz Becker
+- Julia Becker Tjus
+- Jakob Beise
+- Chiara Bellenghi
+- Samuel Benda
+- Segev Benzvi
+- David Berley
+- Elisa Bernardini
+- Dave Besson
+- Gary Binder
+- Daniel Bindig
+- Erik Blaufuss
+- Summer Blot
+- Federico Bontempo
+- Julia Book
+- Jürgen Borowka
+- Caterina Boscolo Meneguolo
+- Sebastian Böser
+- Olga Botner
+- Jakob Böttcher
+- Etienne Bourbeau
+- Jim Braun
+- Bennett Brinson
+- Jannes Brostean-Kaiser
+- Ryan Burley
+- Raffaela Busse
+- Michael Campana
+- Erin Carnie-Bronca
+- Chujie Chen
+- Zheyang Chen
+- Dmitry Chirkin
+- Koun Choi
+- Brian Clark
+- Lew Classen
+- Alan Coleman
+- Gabriel Collin
+- Amy Connolly
+- Janet Conrad
+- Paul Coppin
+- Pablo Correa
+- Stefan Countryman
+- Doug Cowen
+- Robert Cross
+- Christian Dappen
+- Pranav Dave
+- Catherine De Clercq
+- James Delaunay
+- Diyaselis Delgado López
+- Hans Dembinski
+- Kunal Deoskar
+- Abhishek Desai
+- Paolo Desiati
+- Krijn De Vries
+- Gwenhael De Wasseige
+- Tyce Deyoung
+- Alejandro Diaz
+- Juan Carlos Díaz-Vélez
+- Markus Dittmer
+- Hrvoje Dujmovic
+- Michael Duvernois
+- Thomas Ehrhardt
+- Philipp Eller
+- Ralph Engel
+- Hannah Erpenbeck
+- John Evans
+- Paul Evenson
+- Kwok Lung Fan
+- Ali Fazely
+- Anatoli Fedynitch
+- Nora Feigl
+- Sebastian Fiedlschuster
+- Aaron Fienberg
+- Chad Finley
+- Leander Fischer
+- Derek Fox
+- Anna Franckowiak
+- Elizabeth Friedman
+- Alexander Fritz
+- Philipp Fürst
+- Tom Gaisser
+- Jay Gallagher
+- Erik Ganster
+- Alfonso Garcia
+- Simone Garrappa
+- Lisa Gerhardt
+- Ava Ghadimi
+- Christian Glaser
+- Thorsten Glüsenkamp
+- Theo Glauch
+- Noah Goehlke
+- Javier Gonzalez
+- Sreetama Goswami
+- Darren Grant
+- Shannon Gray
+- Timothée Grégoire
+- Spencer Griswold
+- Christoph Günther
+- Pascal Gutjahr
+- Christian Haack
+- Allan Hallgren
+- Robert Halliday
+- Lasse Halve
+- Francis Halzen
+- Hassane Hamdaoui
+- Martin Ha Minh
+- Kael Hanson
+- John Hardin
+- Alexander Harnisch
+- Patrick Hatch
+- Andreas Haungs
+- Klaus Helbing
+- Jonas Hellrung
+- Felix Henningsen
+- Lars Heuermann
+- Stephanie Hickford
+- Colton Hill
+- Gary Hill
+- Kara Hoffman
+- Kotoyo Hoshina
+- Wenjie Hou
+- Thomas Huber
+- Klas Hultqvist
+- Mirco Hünnefeld
+- Raamis Hussain
+- Karolin Hymon
+- Seongjin In
+- Nadege Iovine
+- Aya Ishihara
+- Matti Jansson
+- George Japaridze
+- Minjin Jeong
+- Miaochen Jin
+- Ben Jones
+- Donghwa Kang
+- Woosik Kang
+- Xinyue Kang
+- Alexander Kappes
+- David Kappesser
+- Leonora Kardum
+- Timo Karg
+- Martina Karl
+- Albrecht Karle
+- Uli Katz
+- Matt Kauer
+- John Kelley
+- Ali Kheirandish
+- Ken'Ichi Kin
+- Joanna Kiryluk
+- Spencer Klein
+- Alina Kochocki
+- Ramesh Koirala
+- Hermann Kolanoski
+- Tomas Kontrimas
+- Lutz Köpke
+- Claudio Kopper
+- Jason Koskinen
+- Paras Koundal
+- Michael Kovacevich
+- Marek Kowalski
+- Tetiana Kozynets
+- Emmett Krupczak
+- Emma Kun
+- Naoko Kurahashi
+- Neha Lad
+- Cristina Lagunas Gualda
+- Michael Larson
+- Frederik Lauber
+- Jeffrey Lazar
+- Jiwoong Lee
+- Kayla Leonard
+- Agnieszka Leszczyńska
+- Massimiliano Lincetto
+- Qinrui Liu
+- Maria Liubarska
+- Elisa Lohfink
+- Christina Love
+- Cristian Jesus Lozano Mariscal
+- Lu Lu
+- Francesco Lucarelli
+- Andrew Ludwig
+- William Luszczak
+- Yang Lyu
+- Wing Yan Ma
+- Jim Madsen
+- Kendall Mahn
+- Yuya Makino
+- Sarah Mancina
+- Wenceslas Marie Sainte
+- Ioana Mariş
+- Szabolcs Marka
+- Zsuzsa Marka
+- Matthew Marsee
+- Ivan Martinez-Soler
+- Reina Maruyama
+- Thomas McElroy
+- Frank McNally
+- James Vincent Mead
+- Kevin Meagher
+- Sarah Mechbal
+- Andres Medina
+- Maximilian Meier
+- Stephan Meighen-Berger
+- Yarno Merckx
+- Jessie Micallef
+- Daniela Mockler
+- Teresa Montaruli
+- Roger Moore
+- Bob Morse
+- Marjon Moulai
+- Tista Mukherjee
+- Richard Naab
+- Ryo Nagai
+- Uwe Naumann
+- Amid Nayerhoda
+- Jannis Necker
+- Miriam Neumann
+- Hans Niederhausen
+- Mehr Nisa
+- Sarah Nowicki
+- Anna Obertacke Pollmann
+- Marie Oehler
+- Bob Oeyen
+- Alex Olivas
+- Rasmus Orsoe
+- Jesse Osborn
+- Erin O'Sullivan
+- Hershal Pandya
+- Daria Pankova
+- Nahee Park
+- Grant Parker
+- Ek Narayan Paudel
+- Larissa Paul
+- Carlos Pérez De Los Heros
+- Lilly Peters
+- Josh Peterson
+- Saskia Philippen
+- Sarah Pieper
+- Alex Pizzuto
+- Matthias Plum
+- Yuiry Popovych
+- Alessio Porcelli
+- Maria Prado Rodriguez
+- Brandon Pries
+- Rachel Procter-Murphy
+- Gerald Przybylski
+- Christoph Raab
+- John Rack-Helleis
+- Mohamed Rameez
+- Katherine Rawlins
+- Zoe Rechav
+- Abdul Rehman
+- Patrick Reichherzer
+- Giovanni Renzi
+- Elisa Resconi
+- Simeon Reusch
+- Wolfgang Rhode
+- Mike Richman
+- Benedikt Riedel
+- Ella Roberts
+- Sally Robertson
+- Steven Rodan
+- Gerrit Roellinghoff
+- Martin Rongen
+- Carsten Rott
+- Tim Ruhe
+- Li Ruohan
+- Dirk Ryckbosch
+- Devyn Rysewyk Cantu
+- Ibrahim Safa
+- Julian Saffer
+- Daniel Salazar-Gallegos
+- Pranav Sampathkumar
+- Sebastian Sanchez Herrera
+- Alexander Sandrock
+- Marcos Santander
+- Sourav Sarkar
+- Subir Sarkar
+- Merlin Schaufel
+- Harald Schieler
+- Sebastian Schindler
+- Berit Schlüter
+- Torsten Schmidt
+- Judith Schneider
+- Frank Schröder
+- Lisa Schumacher
+- Georg Schwefer
+- Steve Sclafani
+- Dave Seckel
+- Surujhdeo Seunarine
+- Ankur Sharma
+- Shefali Shefali
+- Nobuhiro Shimizu
+- Manuel Silva
+- Barbara Skrzypek
+- Ben Smithers
+- Robert Snihur
+- Jan Soedingrekso
+- Andreas Søgaard
+- Dennis Soldin
+- Christian Spannfellner
+- Glenn Spiczak
+- Christian Spiering
+- Michael Stamatikos
+- Todor Stanev
+- Robert Stein
+- Thorsten Stezelberger
+- Timo Stürwald
+- Thomas Stuttard
+- Greg Sullivan
+- Ignacio Taboada
+- Samvel Ter-Antonyan
+- Will Thompson
+- Jessie Thwaites
+- Serap Tilav
+- Kirsten Tollefson
+- Christoph Tönnis
+- Simona Toscano
+- Delia Tosi
+- Alexander Trettin
+- Chun Fai Tung
+- Roxanne Turcotte
+- Jean Pierre Twagirayezu
+- Bunheng Ty
+- Martin Unland Elorrieta
+- Karriem Upshaw
+- Nora Valtonen-Mattila
+- Justin Vandenbroucke
+- Nick Van Eijndhoven
+- David Vannerom
+- Jakob Van Santen
+- Javi Vara
+- Joshua Veitch-Michaelis
+- Stef Verpoest
+- Doga Veske
+- Christian Walck
+- Winnie Wang
+- Timothy Blake Watson
+- Chris Weaver
+- Philip Weigel
+- Andreas Weindl
+- Jan Weldert
+- Chris Wendt
+- Johannes Werthebach
+- Mark Weyrauch
+- Nathan Whitehorn
+- Christopher Wiebusch
+- Nathan Willey
+- Dawn Williams
+- Martin Wolf
+- Gerrit Wrede
+- Johan Wulff
+- Xianwu Xu
+- Juan Pablo Yanez
+- Emre Yildizci
+- Shigeru Yoshida
+- Shiqi Yu
+- Tianlu Yuan
+- Zelong Zhang
+- Pavel Zhelnin
+date: '2024-01-01'
+publishDate: '2025-08-25T04:02:25.220662Z'
+publication_types:
+- article-journal
+publication: '*Cryosphere*'
+doi: 10.5194/tc-18-75-2024
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184047016&doi=10.5194%2ftc-18-75-2024&partnerID=40&md5=156b4204ff12cd094419cce695f4e36b
+---

@@ -1,0 +1,273 @@
+---
+title: Manufacture Details of a SWGO Double-Layer Tank Design - Water Cherenkov Detector
+  Prototype
+authors:
+- José Bellido
+- Michael Schneider
+- P. Abreu
+- A. Albert
+- R. Alfaro
+- A. Alfonso
+- C. Álvarez
+- Q. An
+- E.O. Angüner
+- C. Arcaro
+- R. Arceo
+- S. Arias
+- H. Arnaldi
+- P. Assis
+- H.A. Ayala Solares
+- A. Bakalova
+- U. Barres de Almeida
+- I. Batković
+- J. Bazo
+- E. Belmont
+- S.Y. BenZvi
+- A. Bernal
+- W. Bian
+- C. Bigongiari
+- E. Bottacini
+- P. Brogueira
+- T. Bulik
+- G. Busetto
+- K.S. Caballero-Mora
+- P. Camarri
+- S. Campos
+- W. Cao
+- Z. Cao
+- Z. Cao
+- T. Capistrán
+- M. Cardillo
+- E. Carquin
+- A. Carramiñana
+- C. Castromonte
+- J. Chang
+- O. Chaparro
+- S. Chen
+- M. Chianese
+- A. Chiavassa
+- L. Chytka
+- R. Colallillo
+- R. Conceição
+- G. Consolati
+- R. Cordero
+- P.J. Costa
+- J. Cotzomi
+- S. Dasso
+- A. De Angelis
+- P. Desiati
+- F. Di Pierro
+- G. Di Sciascio
+- J.C. Díaz Vélez
+- C. Dib
+- B. Dingus
+- J. Djuvsland
+- C. Dobrigkeit
+- L.M. Domingues Mendes
+- T. Dorigo
+- M. Doro
+- A.C. dos Reis
+- M. Du Vernois
+- M. Echiburú
+- D. Elsaesser
+- K. Engel
+- T. Ergin
+- F. Espinoza
+- K. Fang
+- F. Farfán Carreras
+- A. Fazzi
+- C. Feng
+- M. Feroci
+- N. Fraija
+- S. Fraija
+- A. Franceschini
+- G.F. Franco
+- S. Funk
+- S. Garcia
+- J.A. García-González
+- F. Garfias
+- G. Giacinti
+- L. Gibilisco
+- J. Glombitza
+- H. Goksu
+- G. Gong
+- B.S. González
+- M.M. Gonzalez
+- J. Goodman
+- M. Gu
+- F. Guarino
+- S. Gupta
+- F. Haist
+- H. Hakobyan
+- G. Han
+- P. Hansen
+- J.P. Harding
+- J. Helo
+- I. Herzog
+- H.D. Hidalgo
+- J. Hinton
+- K. Hu
+- D. Huang
+- P. Huentemeyer
+- F. Hueyotl-Zahuantitla
+- A. Iriarte
+- J. Isaković
+- A. Isolia
+- V. Joshi
+- J. Juryšek
+- S. Kaci
+- D. Kieda
+- F. La Monaca
+- G. La Mura
+- R.G. Lang
+- R. Laspiur
+- L. Lavitola
+- J. Lee
+- F. Leitl
+- L. Lessio
+- C. Li
+- J. Li
+- K. Li
+- T. Li
+- B. Liberti
+- S. Lin
+- D. Liu
+- J. Liu
+- R. Liu
+- F. Longo
+- Y. Luo
+- J. Lv
+- E. Macerata
+- K. Malone
+- D. Mandat
+- M. Manganaro
+- M. Mariani
+- A. Mariazzi
+- M. Mariotti
+- T. Marrodan
+- J. Martinez
+- H. Martínez-Huerta
+- S. Medina
+- D. Melo
+- L.F. Mendes
+- E. Meza
+- D. Miceli
+- S. Miozzi
+- A. Mitchell
+- A. Molinario
+- O.G. Morales-Olivares
+- E. Moreno
+- A. Morselli
+- E. Mossini
+- M. Mostafá
+- F. Muleri
+- F. Nardi
+- A. Negro
+- L. Nellen
+- V. Novotny
+- E. Orlando
+- M. Osorio
+- L. Otiniano
+- M. Peresano
+- G. Piano
+- A. Pichel
+- M. Pihet
+- M. Pimenta
+- E. Prandini
+- J. Qin
+- E. Quispe
+- S. Rainò
+- E. Rangel
+- A. Reisenegger
+- H. Ren
+- F. Reščić
+- B. Reville
+- C.D. Rho
+- M. Riquelme
+- G. Rodriguez Fernandez
+- Y. Roh
+- G.E. Romero
+- B. Rossi
+- A.C. Rovero
+- E. Ruiz-Velasco
+- G. Salazar
+- J. Samanes
+- F. Sanchez
+- A. Sandoval
+- M. Santander
+- R. Santonico
+- G.L.P. Santos
+- N. Saviano
+- M. Schneider
+- M. Schneider
+- H. Schoorlemmer
+- J. Serna-Franco
+- V. Serrano
+- A. Smith
+- Y. Son
+- O. Soto
+- R.W. Springer
+- L.A. Stuani
+- H. Sun
+- R. Tang
+- Z. Tang
+- S. Tapia
+- M. Tavani
+- T. Terzić
+- K. Tollefson
+- B. Tomé
+- I. Torres
+- R. Torres-Escobedo
+- G.C. Trinchero
+- R. Turner
+- P. Ulloa
+- L. Valore
+- C. van Eldik
+- I. Vergara
+- A. Viana
+- J. Vícha
+- C.F. Vigorito
+- V. Vittorini
+- B. Wang
+- J. Wang
+- L. Wang
+- X. Wang
+- X. Wang
+- X. Wang
+- Z. Wang
+- M. Waqas
+- I.J. Watson
+- F. Werner
+- R. White
+- C. Wiebusch
+- E.J. Willox
+- F. Wohlleben
+- S. Wu
+- S. Xi
+- G. Xiao
+- L. Yang
+- R. Yang
+- R. Yanyachi
+- Z. Yao
+- D. Zavrtanik
+- H. Zhang
+- H. Zhang
+- S. Zhang
+- X. Zhang
+- Y. Zhang
+- J. Zhao
+- L. Zhao
+- H. Zhou
+- C. Zhu
+- P. Zhu
+- X. Zuo
+date: '2024-01-01'
+publishDate: '2025-08-25T04:02:24.440341Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of Science*'
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85212269570&partnerID=40&md5=f7fac3a99c70b9caf33dafcd5de64832
+---
