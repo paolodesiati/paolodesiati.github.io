@@ -4,7 +4,7 @@ title: Cosmic Ray Anisotropy
 event: 2nd LHAASO Symposium (Indico Page)
 event_url: https://indico.ihep.ac.cn/event/23146/
 
-location: Hong Kong - 香港 (China)
+location: Hong Kong SAR - 香港 (China)
 # address:
 #  street: 1032 W. Sheridan Road
 #  city: Chicago
