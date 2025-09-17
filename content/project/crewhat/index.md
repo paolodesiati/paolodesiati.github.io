@@ -4,7 +4,7 @@ authors:
 - admin
 - Elena D'Onghia
 date: 2025-02-01
-external_link: https://paolodesiati.github.io/project/crewhat
+external_link: https://ntrs.nasa.gov/citations/20250002403
 tags:
   - aerospace
   - active shielding
@@ -16,7 +16,7 @@ CREW-HaT stands for Cosmic Radiation Extended Warding using the Halbach Torus.
 
 ### [NIAC Phase I 2022](https://www.nasa.gov/general/niac-2022-phase-i-and-phase-ii-selections/)
 
-The CREW-HaT project was awarded the NASA Innovative Advanced Concepts - [NIAC Phase I](https://www.nasa.gov/general/crew-hat-cosmic-radiation-extended-warding-using-the-halbach-torus/) award in 2022.
+The CREW-HaT project was awarded the NASA Innovative Advanced Concepts - [NIAC Phase I](https://ntrs.nasa.gov/citations/20250002403) award in 2022.
 
 The 21st century will be when human space exploration gets off the ground. NASA’s priority is to send humans back to the Moon in the next decade with the Artemis mission and travel to Mars in the following decade. In parallel, SpaceX and Blue Origin companies are developing the technology to make human access to space routine. However, achieving this goal is only possible if we can protect the humans we send to space from the damaging effects of cosmic rays and energetic solar radiation. The health risks to astronauts associated with chronic exposure to radiation in space include carcinogenesis, cardiovascular damage, and degradation of the central nervous system. Since the Earth’s magnetic field is responsible for protecting us on Earth’s surface, a logical solution to the problem would be to have a spacecraft bring along its equivalent magnetic field. Here, we propose CREW HaT, a new concept for a Halbach Torus (HaT), which consists of light, deployable, mechanically supported magnetic coils activated by a new generation of high-temperature superconducting tapes that have recently become available. This configuration produces an enhanced external magnetic field that diverts cosmic radiation particles, complemented by a suppressed magnetic field in the astronaut’s habitat. The Halbach torus geometry has never been explored in this context or studied in combination with modern superconductive tapes.  It diverts over 50% of the biology-damaging cosmic rays (protons below 1 GeV) and higher energy high-Z ions. This is sufficient to reduce the radiation dose absorbed by astronauts to a level of <5% of the lifetime excess risk of cancer mortality levels established by NASA.
 
