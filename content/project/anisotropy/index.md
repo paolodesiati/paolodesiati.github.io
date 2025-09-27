@@ -41,7 +41,7 @@ IceCube’s event selection and reconstruction underpin these results: the detec
 
 ### Time Variation in the TeV Cosmic Ray Anisotropy with IceCube and Energy Dependence of the Solar Dipole
 
-[Report on the analyses]((https://pos.sissa.it/501/458/)) of the time variations in the cosmic-ray anisotropy and preliminary results on the measurement of the orbital Compton-Getting Effect observed by IceCube, presented at the [ICRC 2025 Conference](https://indico.cern.ch/event/1258933/) in Geneva. NSF award #2209483.
+[Report on the analyses](https://pos.sissa.it/501/458/) of the time variations in the cosmic-ray anisotropy and preliminary results on the measurement of the orbital Compton-Getting Effect observed by IceCube, presented at the [ICRC 2025 Conference](https://indico.cern.ch/event/1258933/) in Geneva. NSF award #2209483.
 
 ### Investigating Energy-Dependent Anisotropy in Cosmic Rays with IceTop Surface Array
 
