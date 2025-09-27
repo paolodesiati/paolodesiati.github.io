@@ -49,7 +49,7 @@ IceCube’s event selection and reconstruction underpin these results: the detec
 
 ### All-Sky Cosmic-Ray Anisotropy Update at Multiple Energies
 
-[Results on the combined analysis](https://pos.sissa.it/501/244/) of cosmic-ray anisotropy with the HAWC and IceCube observatories and the demonstration of rigidity scaling, presented at the [ICRC 2025 Conference](https://indico.cern.ch/event/1258933/) in Geneva. NSF award #2310092.
+[Results on the combined analysis](https://pos.sissa.it/501/244/) of cosmic-ray anisotropy with the HAWC observatory and with HAWC and IceCube observatories and the demonstration of rigidity scaling, presented at the [ICRC 2025 Conference](https://indico.cern.ch/event/1258933/) in Geneva. NSF award #2310092.
 
 
 
