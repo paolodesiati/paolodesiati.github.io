@@ -39,5 +39,19 @@ Physically, the horizontal (equatorial) dipole component behaves as in other exp
 
 IceCube’s event selection and reconstruction underpin these results: the detector triggers at 2.0–2.3 kHz on muon bundles that track the parent cosmic-ray directions to within a few degrees, and a compact “DST” data stream preserves the essential kinematics for anisotropy analyses over the full 12-year exposure. Residual maps—after subtracting dipole and quadrupole—reveal persistent smaller-scale structure at both low (<18 TeV) and high (>320 TeV) energies. Together, these advances deliver the most precise Southern-sky anisotropy maps to date and a clean baseline for future joint, full-sky studies that probe how the anisotropy’s scale mix evolves with energy.
 
+### Time Variation in the TeV Cosmic Ray Anisotropy with IceCube and Energy Dependence of the Solar Dipole
+
+[Report on the analyses]((https://pos.sissa.it/501/458/)) of the time variations in the cosmic-ray anisotropy and preliminary results on the measurement of the orbital Compton-Getting Effect observed by IceCube, presented at the [ICRC 2025 Conference](https://indico.cern.ch/event/1258933/) in Geneva. NSF award #2209483.
+
+### Investigating Energy-Dependent Anisotropy in Cosmic Rays with IceTop Surface Array
+
+[Report on the analysis](https://pos.sissa.it/501/167/) of the cosmic-ray anisotropy measured by the IceTop surface array, presented at the [ICRC 2025 Conference](https://indico.cern.ch/event/1258933/) in Geneva. NSF award #2209483.
+
+### All-Sky Cosmic-Ray Anisotropy Update at Multiple Energies
+
+[Results on the combined analysis](https://pos.sissa.it/501/244/) of cosmic-ray anisotropy with the HAWC and IceCube observatories and the demonstration of rigidity scaling, presented at the [ICRC 2025 Conference](https://indico.cern.ch/event/1258933/) in Geneva. NSF award #2310092.
+
+
+
 
 <!--more-->
