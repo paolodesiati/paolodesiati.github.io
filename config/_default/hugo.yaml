@@ -6,7 +6,8 @@
 # Website name
 title: Paolo Desiati
 # Website URL
-baseURL: 'https://www.icecube.wisc.edu/~desiati/'
+#baseURL: 'https://www.icecube.wisc.edu/~desiati/'
+baseURL: 'https://paolodesiati.github.io/'
 
 ############################
 ## LANGUAGE
