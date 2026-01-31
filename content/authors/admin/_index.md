@@ -194,7 +194,7 @@ languages:
 awards:
  - title: Chancellor's Award for Excellence in Research
    date: '2026-01-30'
-   awarder: University of Wisconsin–Madison (Office of the Chancellor / Academic Staff Excellence Awards)
+   awarder: University of Wisconsin–Madison - Office of the Chancellor
    summary: |
      This award honors exceptional research achievement as an independent investigator, reflecting significant scholarly impact and contributions to the field.
  - title: Reimar Lüst Stipendium
