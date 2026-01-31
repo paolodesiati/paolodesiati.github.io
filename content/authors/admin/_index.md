@@ -192,6 +192,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+ - title: Chancellor's Award for Excellence in Research
+   date: '2026-01-30'
+   awarder: University of Wisconsin–Madison (Office of the Chancellor / Academic Staff Excellence Awards)
+   summary: |
+     This award honors exceptional research achievement as an independent investigator, reflecting significant scholarly impact and contributions to the field.
  - title: Reimar Lüst Stipendium
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
    date: '1999-05-01'
