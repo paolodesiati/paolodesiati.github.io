@@ -138,6 +138,48 @@ work:
       - Two-year Reimar Lüst stipend from Körber Stiftung, Hamburg, for post-doctoral
         astrophysics research with the AMANDA neutrino telescope
 
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+ - title: Chancellor's Award for Excellence in Research
+   date: '2026-01-30'
+   awarder: University of Wisconsin–Madison - Office of the Chancellor
+   summary: |
+     This award honors exceptional research achievement as an independent investigator, reflecting significant scholarly impact and contributions to the field.
+ - title: Reimar Lüst Stipendium
+#    url: https://www.coursera.org/learn/neural-networks-deep-learning
+   date: '1999-05-01'
+   awarder: Körber Stiftung, Hamburg (Germany)
+#    icon: coursera
+   summary: |
+     The fellowship was awarded to work as a postdoc at the Deutsches Elektronen-Synchrotron (DESY) in Zeuthen (Germany). The project was the study of cosmic-ray-induced neutrinos and muons collected by the AMANDA neutrino telescope at the geographic South Pole. I was also actively involved in constructing the AMANDA experiment in the antarctic summer of 2000 and deploying a control system for the so-called *digitally controlled Analog Optical Modules* (dAOM) in 2001. The dAOMs were a possible technology for the future of neutrino observatories, at the time.
+ - title: Undergraduate Research Fellowship
+#    url: https://www.coursera.org/learn/neural-networks-deep-learning
+   date: '1993-05-01'
+   awarder: Istituto Nazionale di Fisica Nucleare (INFN)
+#    icon: coursera
+   summary: |
+     The fellowship was awarded to perform research with the Large Volume Detector (LVD) at the Gran Sasso National Laboratory (Italy) toward my master's thesis (Tesi di Laurea). The work was the analysis of cosmic-ray events collected by the LVD experiment to investigate the muon events for different cosmic-ray mass composition models.
+#  - title: Blockchain Fundamentals
+#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#    date: '2023-07-01'
+#    awarder: edX
+#    icon: edx
+#    summary: |
+#      Learned:
+#      - Synthesize your own blockchain solutions
+#      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+#  - title: 'Object-Oriented Programming in R'
+#    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#    certificate_url: https://www.datacamp.com
+#    date: '2023-01-21'
+#    awarder: datacamp
+#    icon: datacamp
+#    summary: |
+#      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -187,48 +229,6 @@ languages:
   - name: English
     percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
- - title: Chancellor's Award for Excellence in Research
-   date: '2026-01-30'
-   awarder: University of Wisconsin–Madison - Office of the Chancellor
-   summary: |
-     This award honors exceptional research achievement as an independent investigator, reflecting significant scholarly impact and contributions to the field.
- - title: Reimar Lüst Stipendium
-#    url: https://www.coursera.org/learn/neural-networks-deep-learning
-   date: '1999-05-01'
-   awarder: Körber Stiftung, Hamburg (Germany)
-#    icon: coursera
-   summary: |
-     The fellowship was awarded to work as a postdoc at the Deutsches Elektronen-Synchrotron (DESY) in Zeuthen (Germany). The project was the study of cosmic-ray-induced neutrinos and muons collected by the AMANDA neutrino telescope at the geographic South Pole. I was also actively involved in constructing the AMANDA experiment in the antarctic summer of 2000 and deploying a control system for the so-called *digitally controlled Analog Optical Modules* (dAOM) in 2001. The dAOMs were a possible technology for the future of neutrino observatories, at the time.
- - title: Undergraduate Research Fellowship
-#    url: https://www.coursera.org/learn/neural-networks-deep-learning
-   date: '1993-05-01'
-   awarder: Istituto Nazionale di Fisica Nucleare (INFN)
-#    icon: coursera
-   summary: |
-     The fellowship was awarded to perform research with the Large Volume Detector (LVD) at the Gran Sasso National Laboratory (Italy) toward my master's thesis (Tesi di Laurea). The work was the analysis of cosmic-ray events collected by the LVD experiment to investigate the muon events for different cosmic-ray mass composition models.
-#  - title: Blockchain Fundamentals
-#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#    date: '2023-07-01'
-#    awarder: edX
-#    icon: edx
-#    summary: |
-#      Learned:
-#      - Synthesize your own blockchain solutions
-#      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-#      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-#  - title: 'Object-Oriented Programming in R'
-#    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-#    certificate_url: https://www.datacamp.com
-#    date: '2023-01-21'
-#    awarder: datacamp
-#    icon: datacamp
-#    summary: |
-#      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
