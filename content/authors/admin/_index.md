@@ -198,30 +198,30 @@ skills:
 #        description: ''
 #        percent: 40
 #        icon: circle-stack
- - name: Hobbies
-   color: '#eeac02'
-   color_border: '#f0bf23'
-   items:
-     - name: Biking
-       description: ''
-       percent: 80
-       icon: bike
-     - name: Hiking
-       description: ''
-       percent: 70
-       icon: walking
-     - name: Opera
-       description: ''
-       percent: 100
-       icon: theater
-     - name: Theater
-       description: ''
-       percent: 60
-       icon: theater
-     - name: Books
-       description: ''
-       percent: 100
-       icon: book
+# - name: Hobbies
+#   color: '#eeac02'
+#   color_border: '#f0bf23'
+#   items:
+#     - name: Biking
+#       description: ''
+#       percent: 80
+#       icon: bike
+#     - name: Hiking
+#       description: ''
+#       percent: 70
+#       icon: walking
+#     - name: Opera
+#       description: ''
+#       percent: 100
+#       icon: theater
+#     - name: Theater
+#       description: ''
+#       percent: 60
+#       icon: theater
+#     - name: Books
+#       description: ''
+#       percent: 100
+#       icon: book
 
 languages:
   - name: Italian
