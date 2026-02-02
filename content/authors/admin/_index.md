@@ -152,7 +152,7 @@ awards:
    date: '2021-07-01'
    awarder: University of Wisconsin–Madison/WARF
    summary: |
-     Selected by WARF for a high-potential commercialization of a magnetic shielding technology. A patent titled "Radiation Shielding"(WO2023080934A3, US patent pending) was filed with WARF on July 15, 2022.
+     Selected by WARF for a high-potential commercialization of a magnetic shielding technology. A patent titled "Radiation Shielding"(US20240354624A1, US patent pending) was filed with WARF on July 15, 2022.
  - title: Reimar Lüst Stipendium
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
    date: '1999-05-01'
