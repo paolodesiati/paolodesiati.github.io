@@ -148,6 +148,12 @@ awards:
    awarder: University of Wisconsin–Madison - Office of the Chancellor
    summary: |
      This award honors exceptional research achievement as an independent investigator, reflecting significant scholarly impact and contributions to the field.
+ - title: Draper Technology Innovation Fund (TIF)
+   date: '2021-07-01'
+   awarder: University of Wisconsin–Madison/WARF
+   summary: |
+     Selected by WARF for a high-potential commercialization of a magnetic shielding technology. A patent titled "Radiation Shielding"
+(WO2023080934A3, US patent pending) was filed with WARF on July 15, 2022.
  - title: Reimar Lüst Stipendium
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
    date: '1999-05-01'
