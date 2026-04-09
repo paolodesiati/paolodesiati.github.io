@@ -144,12 +144,14 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
  - title: Chancellor's Award for Excellence in Research
-   date: '2026-01-30'
+   url: https://news.wisc.edu/meet-the-2026-academic-staff-excellence-award-winners/
+   date: '2026-04-08'
    awarder: University of Wisconsin–Madison - Office of the Chancellor
    summary: |
      This award honors exceptional research achievement as an independent investigator, reflecting significant scholarly impact and contributions to the field.
  - title: Draper Technology Innovation Fund (TIF)
-   date: '2021-07-01'
+   url: https://wipac.wisc.edu/wipac-scientist-and-collaborators-develop-magnetic-shield-to-protect-astronauts-and-computers/
+   date: '2021-10-10'
    awarder: University of Wisconsin–Madison/WARF
    summary: |
      Selected by WARF for a high-potential commercialization of a magnetic shielding technology. A patent titled "Radiation Shielding"(US20240354624A1, US patent pending) was filed with WARF on July 15, 2022.
