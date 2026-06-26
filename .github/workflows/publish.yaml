@@ -27,16 +27,10 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '24'
-
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: ${{ env.WC_HUGO_VERSION }}
-          extended: true
+        run: |
+          curl -L "https://github.com/gohugoio/hugo/releases/download/v${{ env.WC_HUGO_VERSION }}/hugo_extended_${{ env.WC_HUGO_VERSION }}_linux-amd64.tar.gz" | tar -xz
+          sudo mv hugo /usr/local/bin/
 
       - uses: actions/cache@v4
         with:
@@ -52,12 +46,13 @@ jobs:
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
+          HUGO_CACHEDIR: /tmp/hugo_cache_runner/
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Generate Pagefind search index
-        run: npx pagefind --site "public"
+        run: npx --yes pagefind --site "public"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
